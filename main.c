@@ -1,4 +1,5 @@
 #include "xc.h"
+#include "UART.h"
 // CW1: FLASH CONFIGURATION WORD 1 (see PIC24 Family Reference Manual 24.1)
 #pragma config ICS = PGx1          // Comm Channel Select (Emulator EMUC1/EMUD1 pins are shared with PGC1/PGD1)
 #pragma config FWDTEN = OFF        // Watchdog Timer Enable (Watchdog Timer is disabled)
@@ -21,6 +22,7 @@ void __attribute__((__interrupt__, __auto_psv__)) _ADC1Interrupt(void) {
 }
 void setADC(){
      AD1PCFG = 0x9fff;
+     CLKDIVbits.RCDIV = 0;
     _TRISA0 = 1;              //This is defined as the input pin
     
     AD1PCFGbits.PCFG0 = 0;    //This sets the pin to Analog
@@ -41,7 +43,15 @@ void setADC(){
     PR3 = 15624; //IDK 
     _AD1IF = 0;
     _AD1IE = 1;
+    setupUART();
 }
 int main(void) {
+    setADC();
+    while(1){
+        sendData('A');
+        int i = 0;
+        sendData('C');
+        int j = 0;
+    }
     return 0;
 }

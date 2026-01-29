@@ -13,7 +13,8 @@ extern "C" {
 #endif
 
     void setupUART();
-    void sendData(uint8_t message);
+    void sendByte(uint8_t message);
+    void sendValue(unsigned char* value);
 
 #ifdef	__cplusplus
 }

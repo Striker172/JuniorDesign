@@ -1,5 +1,7 @@
 #include "xc.h"
 #include "UART.h"
+#include "circularBuff.h"
+#include <stdio.h>
 // CW1: FLASH CONFIGURATION WORD 1 (see PIC24 Family Reference Manual 24.1)
 #pragma config ICS = PGx1          // Comm Channel Select (Emulator EMUC1/EMUD1 pins are shared with PGC1/PGD1)
 #pragma config FWDTEN = OFF        // Watchdog Timer Enable (Watchdog Timer is disabled)
@@ -15,10 +17,17 @@
                                        // Fail-Safe Clock Monitor is enabled)
 #pragma config FNOSC = FRCPLL      // Oscillator Select (Fast RC Oscillator with PLL module (FRCPLL))
 
-
+volatile char num[20] = {'0'};
 void __attribute__((__interrupt__, __auto_psv__)) _ADC1Interrupt(void) {
+    //It takes 2.75microseconds to convert the data with the current settings
     _AD1IF = 0;
     //Interrupt for when the ADC converison is done
+    putVal(ADC1BUF0);
+}
+void __attribute__((interrupt, auto_psv)) _T2Interrupt(){
+    _T2IF = 0; //Sends the value every 0.1 seconds
+    sprintf(num,"%6.4f",(3.3/1024)*getAvg());
+    sendValue(num);
 }
 void setADC(){
      AD1PCFG = 0x9fff;
@@ -38,20 +47,26 @@ void setADC(){
     
     TMR3=0;
     T3CON = 0;
-    T3CONbits.TCKPS = 0b10; //16Mhz 
-//  T3CONbits.TCKPS = 0b01; //128Mhz
+//    T3CONbits.TCKPS = 0b10; //16Mhz 
+    T3CONbits.TCKPS = 0b01; //128Mhz
     PR3 = 15624; //IDK 
+    TMR2 = 0;
+    T2CON = 0;
+    T2CONbits.TCKPS = 0b10;
+    PR2 = 24999;
+    _T2IF = 0;
+    _T2IE = 1;
     _AD1IF = 0;
     _AD1IE = 1;
     setupUART();
 }
 int main(void) {
     setADC();
+    T3CONbits.TON = 1;
+    T2CONbits.TON = 1;
+//    unsigned char* message = ".425";
     while(1){
-        sendData('A');
-        int i = 0;
-        sendData('C');
-        int j = 0;
+//        sendValue(message);
     }
     return 0;
 }

@@ -1,5 +1,6 @@
 #include "xc.h"
 #include "UART.h"
+#include "SPI.h"
 #include "circularBuff.h"
 #include <stdio.h>
 // CW1: FLASH CONFIGURATION WORD 1 (see PIC24 Family Reference Manual 24.1)
@@ -33,7 +34,7 @@ void setADC(){
      AD1PCFG = 0x9fff;
      CLKDIVbits.RCDIV = 0;
     _TRISA0 = 1;              //This is defined as the input pin
-    
+//    setup_SPI();
     AD1PCFGbits.PCFG0 = 0;    //This sets the pin to Analog
     AD1CON2bits.VCFG = 0b100; //Internal pin sampling
     AD1CON3bits.ADCS = 1;     //Converison clock period 2*PR3
@@ -64,9 +65,10 @@ int main(void) {
     setADC();
     T3CONbits.TON = 1;
     T2CONbits.TON = 1;
-//    unsigned char* message = ".425";
+    unsigned char* message = ".425";
     while(1){
 //        sendValue(message);
+        send_sequence(message);
     }
     return 0;
 }

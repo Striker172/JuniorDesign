@@ -1,0 +1,1000 @@
+4005 1770068492282 XXXX 1770068492282, Thread 4005: XXXX 1770068492282, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068492387 XXXX 1770068492387, Thread 4005: XXXX 1770068492387, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068492388 XXXX 1770068492388, Thread 4005: XXXX 1770068492388, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068492502 XXXX 1770068492502, Thread 4005: XXXX 1770068492502, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068492502 XXXX 1770068492502, Thread 4005: XXXX 1770068492502, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068492617 XXXX 1770068492617, Thread 4005: XXXX 1770068492617, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068492618 XXXX 1770068492618, Thread 4005: XXXX 1770068492618, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068492719 XXXX 1770068492719, Thread 4005: XXXX 1770068492719, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068492721 XXXX 1770068492721, Thread 4005: XXXX 1770068492721, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068492830 XXXX 1770068492830, Thread 4005: XXXX 1770068492830, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068492830 XXXX 1770068492830, Thread 4005: XXXX 1770068492830, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068492935 XXXX 1770068492935, Thread 4005: XXXX 1770068492935, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068492935 XXXX 1770068492935, Thread 4005: XXXX 1770068492935, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068493035 XXXX 1770068493035, Thread 4005: XXXX 1770068493035, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068493037 XXXX 1770068493037, Thread 4005: XXXX 1770068493037, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068493171 XXXX 1770068493171, Thread 4005: XXXX 1770068493171, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068493181 XXXX 1770068493181, Thread 4005: XXXX 1770068493181, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068493273 XXXX 1770068493273, Thread 4005: XXXX 1770068493273, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068493275 XXXX 1770068493275, Thread 4005: XXXX 1770068493275, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068493385 XXXX 1770068493385, Thread 4005: XXXX 1770068493385, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068493388 XXXX 1770068493388, Thread 4005: XXXX 1770068493388, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068493486 XXXX 1770068493486, Thread 4005: XXXX 1770068493486, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068493487 XXXX 1770068493487, Thread 4005: XXXX 1770068493487, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068493595 XXXX 1770068493595, Thread 4005: XXXX 1770068493595, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068493597 XXXX 1770068493597, Thread 4005: XXXX 1770068493597, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068493700 XXXX 1770068493700, Thread 4005: XXXX 1770068493700, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068493702 XXXX 1770068493702, Thread 4005: XXXX 1770068493702, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068493814 XXXX 1770068493814, Thread 4005: XXXX 1770068493814, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068493815 XXXX 1770068493815, Thread 4005: XXXX 1770068493815, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068493918 XXXX 1770068493918, Thread 4005: XXXX 1770068493918, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068493918 XXXX 1770068493918, Thread 4005: XXXX 1770068493918, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068494028 XXXX 1770068494028, Thread 4005: XXXX 1770068494028, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068494037 XXXX 1770068494037, Thread 4005: XXXX 1770068494037, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068494134 XXXX 1770068494134, Thread 4005: XXXX 1770068494134, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068494135 XXXX 1770068494135, Thread 4005: XXXX 1770068494135, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068494236 XXXX 1770068494236, Thread 4005: XXXX 1770068494236, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068494238 XXXX 1770068494238, Thread 4005: XXXX 1770068494238, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068494341 XXXX 1770068494341, Thread 4005: XXXX 1770068494340, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068494342 XXXX 1770068494342, Thread 4005: XXXX 1770068494342, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068494450 XXXX 1770068494450, Thread 4005: XXXX 1770068494450, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068494450 XXXX 1770068494450, Thread 4005: XXXX 1770068494450, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068494551 XXXX 1770068494551, Thread 4005: XXXX 1770068494551, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068494552 XXXX 1770068494552, Thread 4005: XXXX 1770068494552, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068494652 XXXX 1770068494652, Thread 4005: XXXX 1770068494652, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068494653 XXXX 1770068494653, Thread 4005: XXXX 1770068494653, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068494770 XXXX 1770068494770, Thread 4005: XXXX 1770068494770, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068494772 XXXX 1770068494772, Thread 4005: XXXX 1770068494772, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068494886 XXXX 1770068494886, Thread 4005: XXXX 1770068494886, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068494892 XXXX 1770068494892, Thread 4005: XXXX 1770068494892, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068494988 XXXX 1770068494988, Thread 4005: XXXX 1770068494988, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068494989 XXXX 1770068494989, Thread 4005: XXXX 1770068494989, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068495091 XXXX 1770068495091, Thread 4005: XXXX 1770068495091, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068495092 XXXX 1770068495092, Thread 4005: XXXX 1770068495092, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068495201 XXXX 1770068495201, Thread 4005: XXXX 1770068495201, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068495202 XXXX 1770068495202, Thread 4005: XXXX 1770068495202, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068495302 XXXX 1770068495302, Thread 4005: XXXX 1770068495302, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068495304 XXXX 1770068495304, Thread 4005: XXXX 1770068495304, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068495406 XXXX 1770068495406, Thread 4005: XXXX 1770068495406, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068495406 XXXX 1770068495406, Thread 4005: XXXX 1770068495406, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068495517 XXXX 1770068495517, Thread 4005: XXXX 1770068495517, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068495517 XXXX 1770068495517, Thread 4005: XXXX 1770068495517, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068495617 XXXX 1770068495617, Thread 4005: XXXX 1770068495617, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068495618 XXXX 1770068495618, Thread 4005: XXXX 1770068495618, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068495719 XXXX 1770068495719, Thread 4005: XXXX 1770068495719, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068495720 XXXX 1770068495720, Thread 4005: XXXX 1770068495720, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068495830 XXXX 1770068495830, Thread 4005: XXXX 1770068495830, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068495830 XXXX 1770068495830, Thread 4005: XXXX 1770068495830, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068495935 XXXX 1770068495935, Thread 4005: XXXX 1770068495935, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068495936 XXXX 1770068495936, Thread 4005: XXXX 1770068495936, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068496052 XXXX 1770068496052, Thread 4005: XXXX 1770068496052, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068496055 XXXX 1770068496055, Thread 4005: XXXX 1770068496055, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068496154 XXXX 1770068496154, Thread 4005: XXXX 1770068496154, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068496155 XXXX 1770068496155, Thread 4005: XXXX 1770068496155, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068496269 XXXX 1770068496269, Thread 4005: XXXX 1770068496269, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068496271 XXXX 1770068496270, Thread 4005: XXXX 1770068496270, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068496383 XXXX 1770068496383, Thread 4005: XXXX 1770068496383, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068496386 XXXX 1770068496386, Thread 4005: XXXX 1770068496386, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068496485 XXXX 1770068496485, Thread 4005: XXXX 1770068496485, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068496485 XXXX 1770068496485, Thread 4005: XXXX 1770068496485, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068496591 XXXX 1770068496591, Thread 4005: XXXX 1770068496591, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068496592 XXXX 1770068496592, Thread 4005: XXXX 1770068496592, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068496702 XXXX 1770068496702, Thread 4005: XXXX 1770068496702, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068496706 XXXX 1770068496706, Thread 4005: XXXX 1770068496706, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068496817 XXXX 1770068496817, Thread 4005: XXXX 1770068496817, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068496818 XXXX 1770068496818, Thread 4005: XXXX 1770068496818, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068496920 XXXX 1770068496920, Thread 4005: XXXX 1770068496920, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068496923 XXXX 1770068496923, Thread 4005: XXXX 1770068496923, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068497031 XXXX 1770068497031, Thread 4005: XXXX 1770068497031, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068497031 XXXX 1770068497031, Thread 4005: XXXX 1770068497031, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068497133 XXXX 1770068497133, Thread 4005: XXXX 1770068497133, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068497134 XXXX 1770068497134, Thread 4005: XXXX 1770068497134, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068497235 XXXX 1770068497235, Thread 4005: XXXX 1770068497235, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068497237 XXXX 1770068497237, Thread 4005: XXXX 1770068497237, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068497351 XXXX 1770068497351, Thread 4005: XXXX 1770068497351, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068497352 XXXX 1770068497352, Thread 4005: XXXX 1770068497352, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068497454 XXXX 1770068497454, Thread 4005: XXXX 1770068497454, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068497454 XXXX 1770068497454, Thread 4005: XXXX 1770068497454, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068497570 XXXX 1770068497570, Thread 4005: XXXX 1770068497570, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068497572 XXXX 1770068497572, Thread 4005: XXXX 1770068497572, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068497677 XXXX 1770068497677, Thread 4005: XXXX 1770068497677, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068497678 XXXX 1770068497678, Thread 4005: XXXX 1770068497678, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068497784 XXXX 1770068497784, Thread 4005: XXXX 1770068497784, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068497785 XXXX 1770068497785, Thread 4005: XXXX 1770068497785, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068497884 XXXX 1770068497884, Thread 4005: XXXX 1770068497884, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068497885 XXXX 1770068497885, Thread 4005: XXXX 1770068497885, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068497985 XXXX 1770068497985, Thread 4005: XXXX 1770068497985, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068497987 XXXX 1770068497987, Thread 4005: XXXX 1770068497987, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068498103 XXXX 1770068498103, Thread 4005: XXXX 1770068498103, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068498105 XXXX 1770068498105, Thread 4005: XXXX 1770068498105, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068498216 XXXX 1770068498216, Thread 4005: XXXX 1770068498216, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068498216 XXXX 1770068498216, Thread 4005: XXXX 1770068498216, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068498318 XXXX 1770068498318, Thread 4005: XXXX 1770068498318, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068498319 XXXX 1770068498319, Thread 4005: XXXX 1770068498319, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068498423 XXXX 1770068498423, Thread 4005: XXXX 1770068498423, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068498425 XXXX 1770068498425, Thread 4005: XXXX 1770068498425, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068498532 XXXX 1770068498532, Thread 4005: XXXX 1770068498532, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068498535 XXXX 1770068498535, Thread 4005: XXXX 1770068498535, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068498635 XXXX 1770068498635, Thread 4005: XXXX 1770068498635, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068498654 XXXX 1770068498654, Thread 4005: XXXX 1770068498654, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068498752 XXXX 1770068498752, Thread 4005: XXXX 1770068498752, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068498753 XXXX 1770068498753, Thread 4005: XXXX 1770068498753, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068498868 XXXX 1770068498868, Thread 4005: XXXX 1770068498868, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068498869 XXXX 1770068498869, Thread 4005: XXXX 1770068498869, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068498982 XXXX 1770068498982, Thread 4005: XXXX 1770068498982, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068498984 XXXX 1770068498984, Thread 4005: XXXX 1770068498984, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068499085 XXXX 1770068499085, Thread 4005: XXXX 1770068499085, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068499086 XXXX 1770068499086, Thread 4005: XXXX 1770068499086, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068499202 XXXX 1770068499202, Thread 4005: XXXX 1770068499202, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068499215 XXXX 1770068499215, Thread 4005: XXXX 1770068499215, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068499293 XXXX 1770068499293, Thread 4005: XXXX 1770068499293, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068499294 XXXX 1770068499294, Thread 4005: XXXX 1770068499294, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068499408 XXXX 1770068499408, Thread 4005: XXXX 1770068499408, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068499416 XXXX 1770068499416, Thread 4005: XXXX 1770068499416, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068499517 XXXX 1770068499517, Thread 4005: XXXX 1770068499517, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068499519 XXXX 1770068499519, Thread 4005: XXXX 1770068499519, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068499629 XXXX 1770068499629, Thread 4005: XXXX 1770068499629, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068499630 XXXX 1770068499630, Thread 4005: XXXX 1770068499630, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068499732 XXXX 1770068499732, Thread 4005: XXXX 1770068499732, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068499732 XXXX 1770068499732, Thread 4005: XXXX 1770068499732, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068499835 XXXX 1770068499835, Thread 4005: XXXX 1770068499835, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068499835 XXXX 1770068499835, Thread 4005: XXXX 1770068499835, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068499951 XXXX 1770068499951, Thread 4005: XXXX 1770068499951, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068499953 XXXX 1770068499953, Thread 4005: XXXX 1770068499953, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068500052 XXXX 1770068500052, Thread 4005: XXXX 1770068500052, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068500053 XXXX 1770068500053, Thread 4005: XXXX 1770068500053, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068500168 XXXX 1770068500168, Thread 4005: XXXX 1770068500168, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068500171 XXXX 1770068500171, Thread 4005: XXXX 1770068500171, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068500268 XXXX 1770068500268, Thread 4005: XXXX 1770068500268, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068500269 XXXX 1770068500269, Thread 4005: XXXX 1770068500269, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068500368 XXXX 1770068500368, Thread 4005: XXXX 1770068500368, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068500369 XXXX 1770068500369, Thread 4005: XXXX 1770068500369, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068500484 XXXX 1770068500484, Thread 4005: XXXX 1770068500484, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068500485 XXXX 1770068500485, Thread 4005: XXXX 1770068500485, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068500585 XXXX 1770068500585, Thread 4005: XXXX 1770068500585, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068500586 XXXX 1770068500586, Thread 4005: XXXX 1770068500586, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068500686 XXXX 1770068500686, Thread 4005: XXXX 1770068500686, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068500686 XXXX 1770068500686, Thread 4005: XXXX 1770068500686, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068500800 XXXX 1770068500800, Thread 4005: XXXX 1770068500800, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068500800 XXXX 1770068500800, Thread 4005: XXXX 1770068500800, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068500917 XXXX 1770068500917, Thread 4005: XXXX 1770068500917, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068500917 XXXX 1770068500917, Thread 4005: XXXX 1770068500917, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068501018 XXXX 1770068501018, Thread 4005: XXXX 1770068501018, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068501020 XXXX 1770068501020, Thread 4005: XXXX 1770068501020, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068501123 XXXX 1770068501123, Thread 4005: XXXX 1770068501123, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068501124 XXXX 1770068501124, Thread 4005: XXXX 1770068501124, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068501229 XXXX 1770068501229, Thread 4005: XXXX 1770068501229, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068501231 XXXX 1770068501231, Thread 4005: XXXX 1770068501231, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068501330 XXXX 1770068501330, Thread 4005: XXXX 1770068501330, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068501331 XXXX 1770068501331, Thread 4005: XXXX 1770068501331, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068501435 XXXX 1770068501435, Thread 4005: XXXX 1770068501435, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068501437 XXXX 1770068501437, Thread 4005: XXXX 1770068501437, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068501553 XXXX 1770068501553, Thread 4005: XXXX 1770068501553, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068501557 XXXX 1770068501557, Thread 4005: XXXX 1770068501557, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068501666 XXXX 1770068501666, Thread 4005: XXXX 1770068501666, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068501667 XXXX 1770068501667, Thread 4005: XXXX 1770068501667, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068501769 XXXX 1770068501769, Thread 4005: XXXX 1770068501769, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068501771 XXXX 1770068501771, Thread 4005: XXXX 1770068501771, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068501883 XXXX 1770068501883, Thread 4005: XXXX 1770068501883, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068501885 XXXX 1770068501885, Thread 4005: XXXX 1770068501885, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068501983 XXXX 1770068501983, Thread 4005: XXXX 1770068501983, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068501984 XXXX 1770068501984, Thread 4005: XXXX 1770068501984, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068502085 XXXX 1770068502085, Thread 4005: XXXX 1770068502085, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068502085 XXXX 1770068502085, Thread 4005: XXXX 1770068502085, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068502194 XXXX 1770068502194, Thread 4005: XXXX 1770068502194, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068502194 XXXX 1770068502194, Thread 4005: XXXX 1770068502194, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068502303 XXXX 1770068502303, Thread 4005: XXXX 1770068502303, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068502306 XXXX 1770068502306, Thread 4005: XXXX 1770068502306, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068502416 XXXX 1770068502416, Thread 4005: XXXX 1770068502416, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068502416 XXXX 1770068502416, Thread 4005: XXXX 1770068502416, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068502519 XXXX 1770068502519, Thread 4005: XXXX 1770068502519, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068502522 XXXX 1770068502522, Thread 4005: XXXX 1770068502522, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068502665 XXXX 1770068502665, Thread 4005: XXXX 1770068502665, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068502669 XXXX 1770068502669, Thread 4005: XXXX 1770068502669, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068502769 XXXX 1770068502769, Thread 4005: XXXX 1770068502769, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068502770 XXXX 1770068502770, Thread 4005: XXXX 1770068502770, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068502868 XXXX 1770068502868, Thread 4005: XXXX 1770068502868, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068502870 XXXX 1770068502870, Thread 4005: XXXX 1770068502870, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068502970 XXXX 1770068502970, Thread 4005: XXXX 1770068502970, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068502971 XXXX 1770068502971, Thread 4005: XXXX 1770068502971, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068503077 XXXX 1770068503077, Thread 4005: XXXX 1770068503077, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068503077 XXXX 1770068503077, Thread 4005: XXXX 1770068503077, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068503184 XXXX 1770068503184, Thread 4005: XXXX 1770068503184, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068503185 XXXX 1770068503185, Thread 4005: XXXX 1770068503185, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068503285 XXXX 1770068503285, Thread 4005: XXXX 1770068503285, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068503285 XXXX 1770068503285, Thread 4005: XXXX 1770068503285, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068503387 XXXX 1770068503387, Thread 4005: XXXX 1770068503387, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068503387 XXXX 1770068503387, Thread 4005: XXXX 1770068503387, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068503504 XXXX 1770068503504, Thread 4005: XXXX 1770068503504, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068503509 XXXX 1770068503509, Thread 4005: XXXX 1770068503509, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068503601 XXXX 1770068503601, Thread 4005: XXXX 1770068503601, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068503603 XXXX 1770068503603, Thread 4005: XXXX 1770068503603, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068503701 XXXX 1770068503701, Thread 4005: XXXX 1770068503701, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068503708 XXXX 1770068503708, Thread 4005: XXXX 1770068503708, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068503816 XXXX 1770068503816, Thread 4005: XXXX 1770068503816, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068503818 XXXX 1770068503818, Thread 4005: XXXX 1770068503818, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068503917 XXXX 1770068503917, Thread 4005: XXXX 1770068503917, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068503919 XXXX 1770068503919, Thread 4005: XXXX 1770068503919, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068504018 XXXX 1770068504018, Thread 4005: XXXX 1770068504018, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068504020 XXXX 1770068504020, Thread 4005: XXXX 1770068504020, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068504135 XXXX 1770068504135, Thread 4005: XXXX 1770068504135, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068504136 XXXX 1770068504136, Thread 4005: XXXX 1770068504136, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068504251 XXXX 1770068504251, Thread 4005: XXXX 1770068504251, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068504265 XXXX 1770068504265, Thread 4005: XXXX 1770068504265, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068504352 XXXX 1770068504352, Thread 4005: XXXX 1770068504352, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068504352 XXXX 1770068504352, Thread 4005: XXXX 1770068504352, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068504453 XXXX 1770068504453, Thread 4005: XXXX 1770068504453, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068504453 XXXX 1770068504453, Thread 4005: XXXX 1770068504453, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068504564 XXXX 1770068504564, Thread 4005: XXXX 1770068504564, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068504565 XXXX 1770068504565, Thread 4005: XXXX 1770068504565, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068504673 XXXX 1770068504673, Thread 4005: XXXX 1770068504673, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068504685 XXXX 1770068504685, Thread 4005: XXXX 1770068504685, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068504785 XXXX 1770068504785, Thread 4005: XXXX 1770068504785, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068504785 XXXX 1770068504785, Thread 4005: XXXX 1770068504785, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068504891 XXXX 1770068504891, Thread 4005: XXXX 1770068504891, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068504901 XXXX 1770068504901, Thread 4005: XXXX 1770068504901, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068505000 XXXX 1770068505000, Thread 4005: XXXX 1770068505000, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068505003 XXXX 1770068505003, Thread 4005: XXXX 1770068505003, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068505101 XXXX 1770068505101, Thread 4005: XXXX 1770068505101, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068505101 XXXX 1770068505101, Thread 4005: XXXX 1770068505101, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068505219 XXXX 1770068505219, Thread 4005: XXXX 1770068505219, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068505221 XXXX 1770068505221, Thread 4005: XXXX 1770068505221, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068505330 XXXX 1770068505330, Thread 4005: XXXX 1770068505330, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068505332 XXXX 1770068505332, Thread 4005: XXXX 1770068505332, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068505432 XXXX 1770068505432, Thread 4005: XXXX 1770068505432, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068505432 XXXX 1770068505432, Thread 4005: XXXX 1770068505432, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068505534 XXXX 1770068505534, Thread 4005: XXXX 1770068505534, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068505535 XXXX 1770068505535, Thread 4005: XXXX 1770068505535, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068505635 XXXX 1770068505635, Thread 4005: XXXX 1770068505635, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068505635 XXXX 1770068505635, Thread 4005: XXXX 1770068505635, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068505751 XXXX 1770068505751, Thread 4005: XXXX 1770068505751, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068505754 XXXX 1770068505754, Thread 4005: XXXX 1770068505754, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068505861 XXXX 1770068505861, Thread 4005: XXXX 1770068505861, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068505863 XXXX 1770068505863, Thread 4005: XXXX 1770068505863, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068505964 XXXX 1770068505964, Thread 4005: XXXX 1770068505964, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068505965 XXXX 1770068505965, Thread 4005: XXXX 1770068505965, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068506067 XXXX 1770068506067, Thread 4005: XXXX 1770068506067, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068506068 XXXX 1770068506068, Thread 4005: XXXX 1770068506068, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068506184 XXXX 1770068506184, Thread 4005: XXXX 1770068506184, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068506185 XXXX 1770068506185, Thread 4005: XXXX 1770068506185, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068506284 XXXX 1770068506284, Thread 4005: XXXX 1770068506284, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068506285 XXXX 1770068506285, Thread 4005: XXXX 1770068506285, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068506385 XXXX 1770068506385, Thread 4005: XXXX 1770068506385, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068506387 XXXX 1770068506387, Thread 4005: XXXX 1770068506387, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068506503 XXXX 1770068506503, Thread 4005: XXXX 1770068506503, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068506503 XXXX 1770068506503, Thread 4005: XXXX 1770068506503, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068506620 XXXX 1770068506620, Thread 4005: XXXX 1770068506620, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068506650 XXXX 1770068506650, Thread 4005: XXXX 1770068506650, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068506734 XXXX 1770068506734, Thread 4005: XXXX 1770068506734, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068506735 XXXX 1770068506735, Thread 4005: XXXX 1770068506735, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068506846 XXXX 1770068506846, Thread 4005: XXXX 1770068506846, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068506848 XXXX 1770068506848, Thread 4005: XXXX 1770068506848, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068506978 XXXX 1770068506978, Thread 4005: XXXX 1770068506978, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068506981 XXXX 1770068506981, Thread 4005: XXXX 1770068506981, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068507083 XXXX 1770068507083, Thread 4005: XXXX 1770068507083, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068507084 XXXX 1770068507084, Thread 4005: XXXX 1770068507084, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068507187 XXXX 1770068507187, Thread 4005: XXXX 1770068507187, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068507191 XXXX 1770068507191, Thread 4005: XXXX 1770068507191, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068507300 XXXX 1770068507300, Thread 4005: XXXX 1770068507300, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068507301 XXXX 1770068507301, Thread 4005: XXXX 1770068507301, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068507415 XXXX 1770068507415, Thread 4005: XXXX 1770068507415, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068507415 XXXX 1770068507415, Thread 4005: XXXX 1770068507415, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068507516 XXXX 1770068507516, Thread 4005: XXXX 1770068507516, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068507524 XXXX 1770068507524, Thread 4005: XXXX 1770068507524, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068507617 XXXX 1770068507617, Thread 4005: XXXX 1770068507617, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068507618 XXXX 1770068507618, Thread 4005: XXXX 1770068507618, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068507729 XXXX 1770068507729, Thread 4005: XXXX 1770068507729, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068507729 XXXX 1770068507729, Thread 4005: XXXX 1770068507729, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068507834 XXXX 1770068507834, Thread 4005: XXXX 1770068507834, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068507835 XXXX 1770068507835, Thread 4005: XXXX 1770068507835, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068507957 XXXX 1770068507957, Thread 4005: XXXX 1770068507957, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068507960 XXXX 1770068507960, Thread 4005: XXXX 1770068507960, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068508058 XXXX 1770068508058, Thread 4005: XXXX 1770068508058, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068508059 XXXX 1770068508059, Thread 4005: XXXX 1770068508059, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068508168 XXXX 1770068508168, Thread 4005: XXXX 1770068508168, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068508169 XXXX 1770068508169, Thread 4005: XXXX 1770068508169, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068508285 XXXX 1770068508285, Thread 4005: XXXX 1770068508285, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068508285 XXXX 1770068508285, Thread 4005: XXXX 1770068508285, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068508387 XXXX 1770068508387, Thread 4005: XXXX 1770068508387, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068508389 XXXX 1770068508389, Thread 4005: XXXX 1770068508389, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068508489 XXXX 1770068508489, Thread 4005: XXXX 1770068508489, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068508490 XXXX 1770068508490, Thread 4005: XXXX 1770068508490, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068508599 XXXX 1770068508599, Thread 4005: XXXX 1770068508599, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068508668 XXXX 1770068508668, Thread 4005: XXXX 1770068508668, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068508700 XXXX 1770068508700, Thread 4005: XXXX 1770068508700, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068508700 XXXX 1770068508700, Thread 4005: XXXX 1770068508700, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068508801 XXXX 1770068508801, Thread 4005: XXXX 1770068508801, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068508802 XXXX 1770068508802, Thread 4005: XXXX 1770068508802, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068508907 XXXX 1770068508907, Thread 4005: XXXX 1770068508907, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068508907 XXXX 1770068508907, Thread 4005: XXXX 1770068508907, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068509016 XXXX 1770068509016, Thread 4005: XXXX 1770068509016, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068509016 XXXX 1770068509016, Thread 4005: XXXX 1770068509016, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068509117 XXXX 1770068509117, Thread 4005: XXXX 1770068509117, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068509118 XXXX 1770068509118, Thread 4005: XXXX 1770068509118, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068509233 XXXX 1770068509233, Thread 4005: XXXX 1770068509233, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068509235 XXXX 1770068509235, Thread 4005: XXXX 1770068509235, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068509335 XXXX 1770068509335, Thread 4005: XXXX 1770068509335, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068509336 XXXX 1770068509336, Thread 4005: XXXX 1770068509336, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068509452 XXXX 1770068509452, Thread 4005: XXXX 1770068509452, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068509452 XXXX 1770068509452, Thread 4005: XXXX 1770068509452, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068509557 XXXX 1770068509557, Thread 4005: XXXX 1770068509557, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068509560 XXXX 1770068509560, Thread 4005: XXXX 1770068509560, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068509658 XXXX 1770068509658, Thread 4005: XXXX 1770068509658, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068509661 XXXX 1770068509661, Thread 4005: XXXX 1770068509661, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068509769 XXXX 1770068509769, Thread 4005: XXXX 1770068509769, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068509769 XXXX 1770068509769, Thread 4005: XXXX 1770068509769, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068509868 XXXX 1770068509868, Thread 4005: XXXX 1770068509868, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068509871 XXXX 1770068509871, Thread 4005: XXXX 1770068509871, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068509970 XXXX 1770068509970, Thread 4005: XXXX 1770068509970, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068509978 XXXX 1770068509978, Thread 4005: XXXX 1770068509978, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068510075 XXXX 1770068510075, Thread 4005: XXXX 1770068510075, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068510083 XXXX 1770068510082, Thread 4005: XXXX 1770068510082, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068510184 XXXX 1770068510184, Thread 4005: XXXX 1770068510184, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068510184 XXXX 1770068510184, Thread 4005: XXXX 1770068510184, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068510285 XXXX 1770068510285, Thread 4005: XXXX 1770068510285, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068510285 XXXX 1770068510285, Thread 4005: XXXX 1770068510285, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068510400 XXXX 1770068510400, Thread 4005: XXXX 1770068510400, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068510412 XXXX 1770068510412, Thread 4005: XXXX 1770068510412, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068510503 XXXX 1770068510503, Thread 4005: XXXX 1770068510503, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068510503 XXXX 1770068510503, Thread 4005: XXXX 1770068510503, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068510617 XXXX 1770068510617, Thread 4005: XXXX 1770068510617, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068510618 XXXX 1770068510618, Thread 4005: XXXX 1770068510618, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068510724 XXXX 1770068510724, Thread 4005: XXXX 1770068510724, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068510725 XXXX 1770068510725, Thread 4005: XXXX 1770068510725, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068510827 XXXX 1770068510827, Thread 4005: XXXX 1770068510827, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068510828 XXXX 1770068510828, Thread 4005: XXXX 1770068510828, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068510934 XXXX 1770068510934, Thread 4005: XXXX 1770068510934, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068510935 XXXX 1770068510935, Thread 4005: XXXX 1770068510935, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068511035 XXXX 1770068511035, Thread 4005: XXXX 1770068511035, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068511037 XXXX 1770068511037, Thread 4005: XXXX 1770068511037, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068511147 XXXX 1770068511147, Thread 4005: XXXX 1770068511147, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068511149 XXXX 1770068511149, Thread 4005: XXXX 1770068511149, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068511251 XXXX 1770068511251, Thread 4005: XXXX 1770068511251, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068511251 XXXX 1770068511251, Thread 4005: XXXX 1770068511251, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068511357 XXXX 1770068511357, Thread 4005: XXXX 1770068511357, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068511361 XXXX 1770068511361, Thread 4005: XXXX 1770068511361, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068511469 XXXX 1770068511469, Thread 4005: XXXX 1770068511469, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068511470 XXXX 1770068511470, Thread 4005: XXXX 1770068511470, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068511584 XXXX 1770068511584, Thread 4005: XXXX 1770068511584, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068511584 XXXX 1770068511584, Thread 4005: XXXX 1770068511584, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068511685 XXXX 1770068511685, Thread 4005: XXXX 1770068511685, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068511685 XXXX 1770068511685, Thread 4005: XXXX 1770068511685, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068511789 XXXX 1770068511789, Thread 4005: XXXX 1770068511789, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068511789 XXXX 1770068511789, Thread 4005: XXXX 1770068511789, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068511900 XXXX 1770068511900, Thread 4005: XXXX 1770068511900, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068511900 XXXX 1770068511900, Thread 4005: XXXX 1770068511900, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068512016 XXXX 1770068512016, Thread 4005: XXXX 1770068512016, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068512020 XXXX 1770068512020, Thread 4005: XXXX 1770068512020, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068512134 XXXX 1770068512134, Thread 4005: XXXX 1770068512134, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068512134 XXXX 1770068512134, Thread 4005: XXXX 1770068512134, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068512234 XXXX 1770068512234, Thread 4005: XXXX 1770068512234, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068512234 XXXX 1770068512234, Thread 4005: XXXX 1770068512234, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068512335 XXXX 1770068512335, Thread 4005: XXXX 1770068512335, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068512336 XXXX 1770068512336, Thread 4005: XXXX 1770068512336, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068512450 XXXX 1770068512450, Thread 4005: XXXX 1770068512450, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068512452 XXXX 1770068512452, Thread 4005: XXXX 1770068512452, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068512555 XXXX 1770068512555, Thread 4005: XXXX 1770068512555, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068512560 XXXX 1770068512560, Thread 4005: XXXX 1770068512560, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068512668 XXXX 1770068512668, Thread 4005: XXXX 1770068512668, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068512670 XXXX 1770068512670, Thread 4005: XXXX 1770068512670, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068512784 XXXX 1770068512784, Thread 4005: XXXX 1770068512784, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068512784 XXXX 1770068512784, Thread 4005: XXXX 1770068512784, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068512899 XXXX 1770068512899, Thread 4005: XXXX 1770068512899, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068512899 XXXX 1770068512899, Thread 4005: XXXX 1770068512899, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068513001 XXXX 1770068513001, Thread 4005: XXXX 1770068513001, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068513002 XXXX 1770068513002, Thread 4005: XXXX 1770068513002, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068513111 XXXX 1770068513111, Thread 4005: XXXX 1770068513111, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068513111 XXXX 1770068513111, Thread 4005: XXXX 1770068513111, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068513216 XXXX 1770068513216, Thread 4005: XXXX 1770068513216, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068513216 XXXX 1770068513216, Thread 4005: XXXX 1770068513216, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068513318 XXXX 1770068513318, Thread 4005: XXXX 1770068513318, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068513319 XXXX 1770068513319, Thread 4005: XXXX 1770068513319, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068513434 XXXX 1770068513434, Thread 4005: XXXX 1770068513434, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068513434 XXXX 1770068513434, Thread 4005: XXXX 1770068513434, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068513534 XXXX 1770068513534, Thread 4005: XXXX 1770068513534, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068513534 XXXX 1770068513534, Thread 4005: XXXX 1770068513534, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068513634 XXXX 1770068513634, Thread 4005: XXXX 1770068513634, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068513634 XXXX 1770068513634, Thread 4005: XXXX 1770068513634, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068513736 XXXX 1770068513736, Thread 4005: XXXX 1770068513736, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068513739 XXXX 1770068513739, Thread 4005: XXXX 1770068513739, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068513840 XXXX 1770068513840, Thread 4005: XXXX 1770068513840, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068513841 XXXX 1770068513841, Thread 4005: XXXX 1770068513841, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068513949 XXXX 1770068513949, Thread 4005: XXXX 1770068513949, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068513950 XXXX 1770068513950, Thread 4005: XXXX 1770068513950, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068514051 XXXX 1770068514051, Thread 4005: XXXX 1770068514051, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068514051 XXXX 1770068514051, Thread 4005: XXXX 1770068514051, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068514151 XXXX 1770068514151, Thread 4005: XXXX 1770068514151, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068514159 XXXX 1770068514159, Thread 4005: XXXX 1770068514159, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068514254 XXXX 1770068514254, Thread 4005: XXXX 1770068514254, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068514255 XXXX 1770068514255, Thread 4005: XXXX 1770068514255, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068514375 XXXX 1770068514375, Thread 4005: XXXX 1770068514375, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068514378 XXXX 1770068514378, Thread 4005: XXXX 1770068514378, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068514484 XXXX 1770068514484, Thread 4005: XXXX 1770068514484, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068514485 XXXX 1770068514485, Thread 4005: XXXX 1770068514485, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068514603 XXXX 1770068514603, Thread 4005: XXXX 1770068514603, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068514604 XXXX 1770068514604, Thread 4005: XXXX 1770068514604, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068514718 XXXX 1770068514718, Thread 4005: XXXX 1770068514718, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068514720 XXXX 1770068514720, Thread 4005: XXXX 1770068514720, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068514833 XXXX 1770068514833, Thread 4005: XXXX 1770068514833, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068514835 XXXX 1770068514835, Thread 4005: XXXX 1770068514835, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068514934 XXXX 1770068514934, Thread 4005: XXXX 1770068514934, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068514935 XXXX 1770068514935, Thread 4005: XXXX 1770068514935, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068515049 XXXX 1770068515049, Thread 4005: XXXX 1770068515049, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068515051 XXXX 1770068515051, Thread 4005: XXXX 1770068515051, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068515150 XXXX 1770068515150, Thread 4005: XXXX 1770068515150, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068515154 XXXX 1770068515154, Thread 4005: XXXX 1770068515154, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068515252 XXXX 1770068515252, Thread 4005: XXXX 1770068515252, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068515253 XXXX 1770068515253, Thread 4005: XXXX 1770068515253, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068515369 XXXX 1770068515369, Thread 4005: XXXX 1770068515369, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068515373 XXXX 1770068515373, Thread 4005: XXXX 1770068515373, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068515483 XXXX 1770068515483, Thread 4005: XXXX 1770068515483, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068515484 XXXX 1770068515484, Thread 4005: XXXX 1770068515484, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068515584 XXXX 1770068515584, Thread 4005: XXXX 1770068515584, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068515584 XXXX 1770068515584, Thread 4005: XXXX 1770068515584, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068515685 XXXX 1770068515685, Thread 4005: XXXX 1770068515685, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068515686 XXXX 1770068515685, Thread 4005: XXXX 1770068515685, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068515803 XXXX 1770068515803, Thread 4005: XXXX 1770068515803, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068515804 XXXX 1770068515804, Thread 4005: XXXX 1770068515804, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068515921 XXXX 1770068515921, Thread 4005: XXXX 1770068515921, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068515923 XXXX 1770068515923, Thread 4005: XXXX 1770068515923, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068516035 XXXX 1770068516035, Thread 4005: XXXX 1770068516035, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068516035 XXXX 1770068516035, Thread 4005: XXXX 1770068516035, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068516150 XXXX 1770068516150, Thread 4005: XXXX 1770068516150, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068516151 XXXX 1770068516151, Thread 4005: XXXX 1770068516151, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068516267 XXXX 1770068516267, Thread 4005: XXXX 1770068516267, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068516269 XXXX 1770068516269, Thread 4005: XXXX 1770068516269, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068516370 XXXX 1770068516370, Thread 4005: XXXX 1770068516370, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068516371 XXXX 1770068516371, Thread 4005: XXXX 1770068516371, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068516534 XXXX 1770068516534, Thread 4005: XXXX 1770068516534, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068516534 XXXX 1770068516534, Thread 4005: XXXX 1770068516534, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068516649 XXXX 1770068516649, Thread 4005: XXXX 1770068516649, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068516650 XXXX 1770068516650, Thread 4005: XXXX 1770068516650, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068516750 XXXX 1770068516750, Thread 4005: XXXX 1770068516750, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068516754 XXXX 1770068516754, Thread 4005: XXXX 1770068516754, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068516853 XXXX 1770068516853, Thread 4005: XXXX 1770068516853, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068516858 XXXX 1770068516858, Thread 4005: XXXX 1770068516858, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068516971 XXXX 1770068516971, Thread 4005: XXXX 1770068516971, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068516973 XXXX 1770068516973, Thread 4005: XXXX 1770068516973, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068517084 XXXX 1770068517084, Thread 4005: XXXX 1770068517084, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068517086 XXXX 1770068517086, Thread 4005: XXXX 1770068517086, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068517185 XXXX 1770068517185, Thread 4005: XXXX 1770068517185, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068517186 XXXX 1770068517186, Thread 4005: XXXX 1770068517186, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068517299 XXXX 1770068517299, Thread 4005: XXXX 1770068517299, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068517299 XXXX 1770068517299, Thread 4005: XXXX 1770068517299, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068517404 XXXX 1770068517404, Thread 4005: XXXX 1770068517404, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068517406 XXXX 1770068517406, Thread 4005: XXXX 1770068517406, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068517517 XXXX 1770068517517, Thread 4005: XXXX 1770068517517, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068517519 XXXX 1770068517519, Thread 4005: XXXX 1770068517519, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068517625 XXXX 1770068517625, Thread 4005: XXXX 1770068517625, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068517626 XXXX 1770068517626, Thread 4005: XXXX 1770068517626, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068517734 XXXX 1770068517734, Thread 4005: XXXX 1770068517734, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068517734 XXXX 1770068517734, Thread 4005: XXXX 1770068517734, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068517834 XXXX 1770068517834, Thread 4005: XXXX 1770068517834, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068517835 XXXX 1770068517835, Thread 4005: XXXX 1770068517835, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068517936 XXXX 1770068517936, Thread 4005: XXXX 1770068517936, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068517938 XXXX 1770068517938, Thread 4005: XXXX 1770068517938, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068518050 XXXX 1770068518050, Thread 4005: XXXX 1770068518050, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068518050 XXXX 1770068518050, Thread 4005: XXXX 1770068518050, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068518170 XXXX 1770068518170, Thread 4005: XXXX 1770068518170, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068518172 XXXX 1770068518172, Thread 4005: XXXX 1770068518172, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068518276 XXXX 1770068518276, Thread 4005: XXXX 1770068518276, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068518277 XXXX 1770068518277, Thread 4005: XXXX 1770068518277, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068518384 XXXX 1770068518384, Thread 4005: XXXX 1770068518384, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068518385 XXXX 1770068518385, Thread 4005: XXXX 1770068518385, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068518499 XXXX 1770068518499, Thread 4005: XXXX 1770068518499, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068518501 XXXX 1770068518501, Thread 4005: XXXX 1770068518501, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068518600 XXXX 1770068518600, Thread 4005: XXXX 1770068518600, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068518600 XXXX 1770068518600, Thread 4005: XXXX 1770068518600, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068518706 XXXX 1770068518706, Thread 4005: XXXX 1770068518706, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068518708 XXXX 1770068518708, Thread 4005: XXXX 1770068518708, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068518814 XXXX 1770068518814, Thread 4005: XXXX 1770068518814, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068518814 XXXX 1770068518814, Thread 4005: XXXX 1770068518814, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068518916 XXXX 1770068518916, Thread 4005: XXXX 1770068518916, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068518916 XXXX 1770068518916, Thread 4005: XXXX 1770068518916, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068519026 XXXX 1770068519026, Thread 4005: XXXX 1770068519026, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068519028 XXXX 1770068519028, Thread 4005: XXXX 1770068519028, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068519134 XXXX 1770068519134, Thread 4005: XXXX 1770068519134, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068519135 XXXX 1770068519135, Thread 4005: XXXX 1770068519135, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068519249 XXXX 1770068519249, Thread 4005: XXXX 1770068519249, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068519254 XXXX 1770068519254, Thread 4005: XXXX 1770068519254, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068519352 XXXX 1770068519352, Thread 4005: XXXX 1770068519352, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068519354 XXXX 1770068519354, Thread 4005: XXXX 1770068519354, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068519500 XXXX 1770068519500, Thread 4005: XXXX 1770068519500, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068519501 XXXX 1770068519501, Thread 4005: XXXX 1770068519501, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068519606 XXXX 1770068519606, Thread 4005: XXXX 1770068519606, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068519608 XXXX 1770068519608, Thread 4005: XXXX 1770068519608, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068519708 XXXX 1770068519708, Thread 4005: XXXX 1770068519708, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068519708 XXXX 1770068519708, Thread 4005: XXXX 1770068519708, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068519817 XXXX 1770068519817, Thread 4005: XXXX 1770068519817, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068519817 XXXX 1770068519817, Thread 4005: XXXX 1770068519817, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068519917 XXXX 1770068519917, Thread 4005: XXXX 1770068519917, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068519919 XXXX 1770068519919, Thread 4005: XXXX 1770068519919, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068520035 XXXX 1770068520035, Thread 4005: XXXX 1770068520035, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068520047 XXXX 1770068520047, Thread 4005: XXXX 1770068520047, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068520150 XXXX 1770068520150, Thread 4005: XXXX 1770068520150, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068520151 XXXX 1770068520151, Thread 4005: XXXX 1770068520151, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068520267 XXXX 1770068520267, Thread 4005: XXXX 1770068520267, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068520267 XXXX 1770068520267, Thread 4005: XXXX 1770068520267, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068520368 XXXX 1770068520368, Thread 4005: XXXX 1770068520368, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068520371 XXXX 1770068520371, Thread 4005: XXXX 1770068520371, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068520486 XXXX 1770068520486, Thread 4005: XXXX 1770068520486, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068520492 XXXX 1770068520492, Thread 4005: XXXX 1770068520492, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068520598 XXXX 1770068520598, Thread 4005: XXXX 1770068520598, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068520603 XXXX 1770068520603, Thread 4005: XXXX 1770068520603, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068520700 XXXX 1770068520700, Thread 4005: XXXX 1770068520700, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068520702 XXXX 1770068520702, Thread 4005: XXXX 1770068520702, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068520808 XXXX 1770068520808, Thread 4005: XXXX 1770068520808, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068520812 XXXX 1770068520812, Thread 4005: XXXX 1770068520812, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068520924 XXXX 1770068520924, Thread 4005: XXXX 1770068520924, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068520929 XXXX 1770068520929, Thread 4005: XXXX 1770068520929, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068521033 XXXX 1770068521033, Thread 4005: XXXX 1770068521033, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068521033 XXXX 1770068521033, Thread 4005: XXXX 1770068521033, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068521148 XXXX 1770068521148, Thread 4005: XXXX 1770068521148, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068521149 XXXX 1770068521149, Thread 4005: XXXX 1770068521149, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068521250 XXXX 1770068521250, Thread 4005: XXXX 1770068521250, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068521251 XXXX 1770068521251, Thread 4005: XXXX 1770068521251, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068521359 XXXX 1770068521359, Thread 4005: XXXX 1770068521359, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068521361 XXXX 1770068521361, Thread 4005: XXXX 1770068521361, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068521468 XXXX 1770068521468, Thread 4005: XXXX 1770068521468, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068521468 XXXX 1770068521468, Thread 4005: XXXX 1770068521468, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068521581 XXXX 1770068521581, Thread 4005: XXXX 1770068521581, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068521582 XXXX 1770068521582, Thread 4005: XXXX 1770068521582, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068521683 XXXX 1770068521683, Thread 4005: XXXX 1770068521683, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068521685 XXXX 1770068521685, Thread 4005: XXXX 1770068521685, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068521800 XXXX 1770068521800, Thread 4005: XXXX 1770068521800, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068521802 XXXX 1770068521802, Thread 4005: XXXX 1770068521802, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068521917 XXXX 1770068521917, Thread 4005: XXXX 1770068521917, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068521917 XXXX 1770068521917, Thread 4005: XXXX 1770068521917, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068522030 XXXX 1770068522030, Thread 4005: XXXX 1770068522030, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068522031 XXXX 1770068522031, Thread 4005: XXXX 1770068522031, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068522136 XXXX 1770068522136, Thread 4005: XXXX 1770068522136, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068522141 XXXX 1770068522141, Thread 4005: XXXX 1770068522141, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068522247 XXXX 1770068522247, Thread 4005: XXXX 1770068522247, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068522248 XXXX 1770068522248, Thread 4005: XXXX 1770068522248, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068522363 XXXX 1770068522363, Thread 4005: XXXX 1770068522363, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068522364 XXXX 1770068522364, Thread 4005: XXXX 1770068522364, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068522467 XXXX 1770068522467, Thread 4005: XXXX 1770068522467, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068522468 XXXX 1770068522468, Thread 4005: XXXX 1770068522468, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068522582 XXXX 1770068522582, Thread 4005: XXXX 1770068522582, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068522592 XXXX 1770068522592, Thread 4005: XXXX 1770068522592, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068522682 XXXX 1770068522682, Thread 4005: XXXX 1770068522682, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068522682 XXXX 1770068522682, Thread 4005: XXXX 1770068522682, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068522784 XXXX 1770068522784, Thread 4005: XXXX 1770068522784, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068522785 XXXX 1770068522785, Thread 4005: XXXX 1770068522785, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068522898 XXXX 1770068522898, Thread 4005: XXXX 1770068522898, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068522899 XXXX 1770068522899, Thread 4005: XXXX 1770068522899, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068523002 XXXX 1770068523002, Thread 4005: XXXX 1770068523002, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068523002 XXXX 1770068523002, Thread 4005: XXXX 1770068523002, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068523117 XXXX 1770068523117, Thread 4005: XXXX 1770068523117, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068523117 XXXX 1770068523117, Thread 4005: XXXX 1770068523117, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068523232 XXXX 1770068523232, Thread 4005: XXXX 1770068523232, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068523234 XXXX 1770068523234, Thread 4005: XXXX 1770068523234, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068523334 XXXX 1770068523334, Thread 4005: XXXX 1770068523334, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068523335 XXXX 1770068523335, Thread 4005: XXXX 1770068523335, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068523446 XXXX 1770068523446, Thread 4005: XXXX 1770068523446, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068523447 XXXX 1770068523447, Thread 4005: XXXX 1770068523447, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068523560 XXXX 1770068523560, Thread 4005: XXXX 1770068523560, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068523563 XXXX 1770068523563, Thread 4005: XXXX 1770068523563, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068523664 XXXX 1770068523664, Thread 4005: XXXX 1770068523664, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068523667 XXXX 1770068523667, Thread 4005: XXXX 1770068523667, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068523769 XXXX 1770068523769, Thread 4005: XXXX 1770068523769, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068523771 XXXX 1770068523771, Thread 4005: XXXX 1770068523771, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068523880 XXXX 1770068523880, Thread 4005: XXXX 1770068523880, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068523880 XXXX 1770068523880, Thread 4005: XXXX 1770068523880, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068523995 XXXX 1770068523995, Thread 4005: XXXX 1770068523995, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068523997 XXXX 1770068523997, Thread 4005: XXXX 1770068523997, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068524100 XXXX 1770068524100, Thread 4005: XXXX 1770068524100, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068524101 XXXX 1770068524101, Thread 4005: XXXX 1770068524101, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068524216 XXXX 1770068524216, Thread 4005: XXXX 1770068524216, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068524217 XXXX 1770068524217, Thread 4005: XXXX 1770068524217, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068524317 XXXX 1770068524317, Thread 4005: XXXX 1770068524317, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068524317 XXXX 1770068524317, Thread 4005: XXXX 1770068524317, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068524417 XXXX 1770068524417, Thread 4005: XXXX 1770068524417, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068524420 XXXX 1770068524420, Thread 4005: XXXX 1770068524420, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068524527 XXXX 1770068524527, Thread 4005: XXXX 1770068524527, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068524528 XXXX 1770068524528, Thread 4005: XXXX 1770068524528, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068524634 XXXX 1770068524634, Thread 4005: XXXX 1770068524634, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068524634 XXXX 1770068524634, Thread 4005: XXXX 1770068524634, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068524744 XXXX 1770068524744, Thread 4005: XXXX 1770068524744, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068524745 XXXX 1770068524745, Thread 4005: XXXX 1770068524745, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068524846 XXXX 1770068524846, Thread 4005: XXXX 1770068524846, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068524850 XXXX 1770068524850, Thread 4005: XXXX 1770068524850, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068524962 XXXX 1770068524962, Thread 4005: XXXX 1770068524962, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068524963 XXXX 1770068524963, Thread 4005: XXXX 1770068524963, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068525067 XXXX 1770068525067, Thread 4005: XXXX 1770068525067, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068525069 XXXX 1770068525069, Thread 4005: XXXX 1770068525069, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068525183 XXXX 1770068525183, Thread 4005: XXXX 1770068525183, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068525184 XXXX 1770068525184, Thread 4005: XXXX 1770068525184, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068525283 XXXX 1770068525283, Thread 4005: XXXX 1770068525283, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068525285 XXXX 1770068525285, Thread 4005: XXXX 1770068525285, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068525386 XXXX 1770068525386, Thread 4005: XXXX 1770068525386, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068525386 XXXX 1770068525386, Thread 4005: XXXX 1770068525386, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068525485 XXXX 1770068525485, Thread 4005: XXXX 1770068525485, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068525486 XXXX 1770068525486, Thread 4005: XXXX 1770068525486, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068525591 XXXX 1770068525591, Thread 4005: XXXX 1770068525591, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068525592 XXXX 1770068525592, Thread 4005: XXXX 1770068525592, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068525698 XXXX 1770068525698, Thread 4005: XXXX 1770068525698, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068525700 XXXX 1770068525700, Thread 4005: XXXX 1770068525700, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068525800 XXXX 1770068525800, Thread 4005: XXXX 1770068525800, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068525801 XXXX 1770068525801, Thread 4005: XXXX 1770068525801, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068525909 XXXX 1770068525909, Thread 4005: XXXX 1770068525909, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068525911 XXXX 1770068525911, Thread 4005: XXXX 1770068525911, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068526009 XXXX 1770068526009, Thread 4005: XXXX 1770068526009, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068526011 XXXX 1770068526011, Thread 4005: XXXX 1770068526011, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068526116 XXXX 1770068526116, Thread 4005: XXXX 1770068526116, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068526118 XXXX 1770068526118, Thread 4005: XXXX 1770068526118, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068526217 XXXX 1770068526217, Thread 4005: XXXX 1770068526217, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068526218 XXXX 1770068526218, Thread 4005: XXXX 1770068526218, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068526329 XXXX 1770068526329, Thread 4005: XXXX 1770068526329, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068526330 XXXX 1770068526330, Thread 4005: XXXX 1770068526330, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068526433 XXXX 1770068526433, Thread 4005: XXXX 1770068526433, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068526433 XXXX 1770068526433, Thread 4005: XXXX 1770068526433, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068526534 XXXX 1770068526534, Thread 4005: XXXX 1770068526534, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068526534 XXXX 1770068526534, Thread 4005: XXXX 1770068526534, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068526636 XXXX 1770068526636, Thread 4005: XXXX 1770068526636, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068526637 XXXX 1770068526637, Thread 4005: XXXX 1770068526637, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068526746 XXXX 1770068526746, Thread 4005: XXXX 1770068526746, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068526747 XXXX 1770068526747, Thread 4005: XXXX 1770068526747, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068526854 XXXX 1770068526854, Thread 4005: XXXX 1770068526854, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068526855 XXXX 1770068526855, Thread 4005: XXXX 1770068526855, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068526967 XXXX 1770068526967, Thread 4005: XXXX 1770068526967, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068526968 XXXX 1770068526968, Thread 4005: XXXX 1770068526968, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068527082 XXXX 1770068527082, Thread 4005: XXXX 1770068527082, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068527082 XXXX 1770068527082, Thread 4005: XXXX 1770068527082, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068527201 XXXX 1770068527201, Thread 4005: XXXX 1770068527201, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068527201 XXXX 1770068527201, Thread 4005: XXXX 1770068527201, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068527317 XXXX 1770068527317, Thread 4005: XXXX 1770068527317, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068527319 XXXX 1770068527319, Thread 4005: XXXX 1770068527319, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068527417 XXXX 1770068527417, Thread 4005: XXXX 1770068527417, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068527418 XXXX 1770068527418, Thread 4005: XXXX 1770068527418, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068527534 XXXX 1770068527534, Thread 4005: XXXX 1770068527534, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068527544 XXXX 1770068527544, Thread 4005: XXXX 1770068527544, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068527641 XXXX 1770068527641, Thread 4005: XXXX 1770068527641, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068527643 XXXX 1770068527643, Thread 4005: XXXX 1770068527643, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068527742 XXXX 1770068527742, Thread 4005: XXXX 1770068527742, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068527743 XXXX 1770068527743, Thread 4005: XXXX 1770068527743, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068527850 XXXX 1770068527850, Thread 4005: XXXX 1770068527850, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068527854 XXXX 1770068527854, Thread 4005: XXXX 1770068527854, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068527967 XXXX 1770068527967, Thread 4005: XXXX 1770068527967, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068527967 XXXX 1770068527967, Thread 4005: XXXX 1770068527967, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068528082 XXXX 1770068528082, Thread 4005: XXXX 1770068528082, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068528083 XXXX 1770068528083, Thread 4005: XXXX 1770068528083, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068528183 XXXX 1770068528183, Thread 4005: XXXX 1770068528183, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068528185 XXXX 1770068528185, Thread 4005: XXXX 1770068528185, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068528292 XXXX 1770068528292, Thread 4005: XXXX 1770068528292, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068528292 XXXX 1770068528292, Thread 4005: XXXX 1770068528292, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068528398 XXXX 1770068528398, Thread 4005: XXXX 1770068528398, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068528398 XXXX 1770068528398, Thread 4005: XXXX 1770068528398, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068528499 XXXX 1770068528499, Thread 4005: XXXX 1770068528499, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068528500 XXXX 1770068528500, Thread 4005: XXXX 1770068528500, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068528612 XXXX 1770068528612, Thread 4005: XXXX 1770068528612, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068528613 XXXX 1770068528613, Thread 4005: XXXX 1770068528613, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068528715 XXXX 1770068528715, Thread 4005: XXXX 1770068528715, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068528717 XXXX 1770068528717, Thread 4005: XXXX 1770068528717, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068528832 XXXX 1770068528832, Thread 4005: XXXX 1770068528832, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068528833 XXXX 1770068528833, Thread 4005: XXXX 1770068528833, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068528933 XXXX 1770068528933, Thread 4005: XXXX 1770068528933, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068528936 XXXX 1770068528936, Thread 4005: XXXX 1770068528936, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068529034 XXXX 1770068529034, Thread 4005: XXXX 1770068529034, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068529036 XXXX 1770068529036, Thread 4005: XXXX 1770068529036, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068529144 XXXX 1770068529144, Thread 4005: XXXX 1770068529144, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068529147 XXXX 1770068529147, Thread 4005: XXXX 1770068529147, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068529250 XXXX 1770068529250, Thread 4005: XXXX 1770068529250, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068529252 XXXX 1770068529252, Thread 4005: XXXX 1770068529252, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068529365 XXXX 1770068529365, Thread 4005: XXXX 1770068529365, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068529369 XXXX 1770068529369, Thread 4005: XXXX 1770068529369, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068529467 XXXX 1770068529467, Thread 4005: XXXX 1770068529467, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068529467 XXXX 1770068529467, Thread 4005: XXXX 1770068529467, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068529584 XXXX 1770068529584, Thread 4005: XXXX 1770068529584, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068529584 XXXX 1770068529584, Thread 4005: XXXX 1770068529584, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068529699 XXXX 1770068529699, Thread 4005: XXXX 1770068529699, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068529700 XXXX 1770068529700, Thread 4005: XXXX 1770068529700, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068529799 XXXX 1770068529799, Thread 4005: XXXX 1770068529799, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068529800 XXXX 1770068529800, Thread 4005: XXXX 1770068529800, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068529911 XXXX 1770068529911, Thread 4005: XXXX 1770068529911, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068529911 XXXX 1770068529911, Thread 4005: XXXX 1770068529911, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068530016 XXXX 1770068530016, Thread 4005: XXXX 1770068530016, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068530016 XXXX 1770068530016, Thread 4005: XXXX 1770068530016, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068530127 XXXX 1770068530127, Thread 4005: XXXX 1770068530127, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068530129 XXXX 1770068530129, Thread 4005: XXXX 1770068530129, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068530233 XXXX 1770068530233, Thread 4005: XXXX 1770068530233, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068530233 XXXX 1770068530233, Thread 4005: XXXX 1770068530233, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068530340 XXXX 1770068530340, Thread 4005: XXXX 1770068530340, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068530342 XXXX 1770068530342, Thread 4005: XXXX 1770068530342, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068530452 XXXX 1770068530452, Thread 4005: XXXX 1770068530452, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068530452 XXXX 1770068530452, Thread 4005: XXXX 1770068530452, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068530561 XXXX 1770068530561, Thread 4005: XXXX 1770068530561, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068530566 XXXX 1770068530566, Thread 4005: XXXX 1770068530566, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068530667 XXXX 1770068530667, Thread 4005: XXXX 1770068530667, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068530667 XXXX 1770068530667, Thread 4005: XXXX 1770068530667, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068530781 XXXX 1770068530781, Thread 4005: XXXX 1770068530781, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068530784 XXXX 1770068530784, Thread 4005: XXXX 1770068530784, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068530885 XXXX 1770068530885, Thread 4005: XXXX 1770068530885, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068530887 XXXX 1770068530887, Thread 4005: XXXX 1770068530887, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068530999 XXXX 1770068530999, Thread 4005: XXXX 1770068530999, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068531000 XXXX 1770068531000, Thread 4005: XXXX 1770068531000, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068531099 XXXX 1770068531099, Thread 4005: XXXX 1770068531099, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068531099 XXXX 1770068531099, Thread 4005: XXXX 1770068531099, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068531215 XXXX 1770068531215, Thread 4005: XXXX 1770068531215, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068531215 XXXX 1770068531215, Thread 4005: XXXX 1770068531215, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068531318 XXXX 1770068531318, Thread 4005: XXXX 1770068531318, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068531319 XXXX 1770068531319, Thread 4005: XXXX 1770068531319, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068531432 XXXX 1770068531432, Thread 4005: XXXX 1770068531432, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068531432 XXXX 1770068531432, Thread 4005: XXXX 1770068531432, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068531534 XXXX 1770068531534, Thread 4005: XXXX 1770068531534, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068531536 XXXX 1770068531536, Thread 4005: XXXX 1770068531536, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068531637 XXXX 1770068531637, Thread 4005: XXXX 1770068531637, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068531638 XXXX 1770068531638, Thread 4005: XXXX 1770068531638, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068531751 XXXX 1770068531751, Thread 4005: XXXX 1770068531751, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068531753 XXXX 1770068531753, Thread 4005: XXXX 1770068531753, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068531866 XXXX 1770068531866, Thread 4005: XXXX 1770068531866, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068531867 XXXX 1770068531867, Thread 4005: XXXX 1770068531867, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068531967 XXXX 1770068531967, Thread 4005: XXXX 1770068531967, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068531973 XXXX 1770068531973, Thread 4005: XXXX 1770068531973, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068532079 XXXX 1770068532079, Thread 4005: XXXX 1770068532079, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068532080 XXXX 1770068532080, Thread 4005: XXXX 1770068532080, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068532182 XXXX 1770068532182, Thread 4005: XXXX 1770068532182, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068532185 XXXX 1770068532185, Thread 4005: XXXX 1770068532185, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068532298 XXXX 1770068532298, Thread 4005: XXXX 1770068532298, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068532298 XXXX 1770068532298, Thread 4005: XXXX 1770068532298, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068532401 XXXX 1770068532401, Thread 4005: XXXX 1770068532401, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068532401 XXXX 1770068532401, Thread 4005: XXXX 1770068532401, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068532506 XXXX 1770068532506, Thread 4005: XXXX 1770068532506, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068532508 XXXX 1770068532508, Thread 4005: XXXX 1770068532508, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068532684 XXXX 1770068532684, Thread 4005: XXXX 1770068532684, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068532684 XXXX 1770068532684, Thread 4005: XXXX 1770068532684, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068532792 XXXX 1770068532792, Thread 4005: XXXX 1770068532792, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068532792 XXXX 1770068532792, Thread 4005: XXXX 1770068532792, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068532899 XXXX 1770068532899, Thread 4005: XXXX 1770068532899, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068532899 XXXX 1770068532899, Thread 4005: XXXX 1770068532899, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068533015 XXXX 1770068533015, Thread 4005: XXXX 1770068533015, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068533015 XXXX 1770068533015, Thread 4005: XXXX 1770068533015, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068533115 XXXX 1770068533115, Thread 4005: XXXX 1770068533115, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068533116 XXXX 1770068533116, Thread 4005: XXXX 1770068533116, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068533217 XXXX 1770068533217, Thread 4005: XXXX 1770068533217, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068533229 XXXX 1770068533229, Thread 4005: XXXX 1770068533229, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068533332 XXXX 1770068533332, Thread 4005: XXXX 1770068533332, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068533332 XXXX 1770068533332, Thread 4005: XXXX 1770068533332, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068533433 XXXX 1770068533433, Thread 4005: XXXX 1770068533433, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068533433 XXXX 1770068533433, Thread 4005: XXXX 1770068533433, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068533538 XXXX 1770068533538, Thread 4005: XXXX 1770068533538, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068533551 XXXX 1770068533551, Thread 4005: XXXX 1770068533551, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068533650 XXXX 1770068533650, Thread 4005: XXXX 1770068533650, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068533653 XXXX 1770068533653, Thread 4005: XXXX 1770068533653, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068533765 XXXX 1770068533765, Thread 4005: XXXX 1770068533765, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068533766 XXXX 1770068533766, Thread 4005: XXXX 1770068533766, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068533867 XXXX 1770068533867, Thread 4005: XXXX 1770068533867, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068533869 XXXX 1770068533869, Thread 4005: XXXX 1770068533869, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068533982 XXXX 1770068533982, Thread 4005: XXXX 1770068533982, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068533986 XXXX 1770068533986, Thread 4005: XXXX 1770068533986, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068534098 XXXX 1770068534098, Thread 4005: XXXX 1770068534098, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068534100 XXXX 1770068534100, Thread 4005: XXXX 1770068534100, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068534200 XXXX 1770068534200, Thread 4005: XXXX 1770068534200, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068534201 XXXX 1770068534201, Thread 4005: XXXX 1770068534201, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068534316 XXXX 1770068534316, Thread 4005: XXXX 1770068534315, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068534317 XXXX 1770068534317, Thread 4005: XXXX 1770068534317, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068534416 XXXX 1770068534416, Thread 4005: XXXX 1770068534416, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068534417 XXXX 1770068534417, Thread 4005: XXXX 1770068534417, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068534533 XXXX 1770068534533, Thread 4005: XXXX 1770068534533, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068534537 XXXX 1770068534537, Thread 4005: XXXX 1770068534537, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068534636 XXXX 1770068534636, Thread 4005: XXXX 1770068534636, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068534637 XXXX 1770068534637, Thread 4005: XXXX 1770068534637, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068534753 XXXX 1770068534753, Thread 4005: XXXX 1770068534753, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068534755 XXXX 1770068534755, Thread 4005: XXXX 1770068534755, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068534867 XXXX 1770068534867, Thread 4005: XXXX 1770068534867, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068534867 XXXX 1770068534867, Thread 4005: XXXX 1770068534867, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068534969 XXXX 1770068534969, Thread 4005: XXXX 1770068534969, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068534971 XXXX 1770068534971, Thread 4005: XXXX 1770068534971, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068535083 XXXX 1770068535083, Thread 4005: XXXX 1770068535083, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068535084 XXXX 1770068535084, Thread 4005: XXXX 1770068535084, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068535197 XXXX 1770068535197, Thread 4005: XXXX 1770068535197, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068535197 XXXX 1770068535197, Thread 4005: XXXX 1770068535197, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068535298 XXXX 1770068535298, Thread 4005: XXXX 1770068535298, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068535301 XXXX 1770068535301, Thread 4005: XXXX 1770068535301, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068535401 XXXX 1770068535401, Thread 4005: XXXX 1770068535401, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068535402 XXXX 1770068535402, Thread 4005: XXXX 1770068535402, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068535507 XXXX 1770068535507, Thread 4005: XXXX 1770068535507, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068535512 XXXX 1770068535512, Thread 4005: XXXX 1770068535512, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068535611 XXXX 1770068535611, Thread 4005: XXXX 1770068535611, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068535611 XXXX 1770068535611, Thread 4005: XXXX 1770068535611, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068535715 XXXX 1770068535715, Thread 4005: XXXX 1770068535715, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068535715 XXXX 1770068535715, Thread 4005: XXXX 1770068535715, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068535820 XXXX 1770068535820, Thread 4005: XXXX 1770068535820, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068535822 XXXX 1770068535822, Thread 4005: XXXX 1770068535822, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068535932 XXXX 1770068535932, Thread 4005: XXXX 1770068535932, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068535942 XXXX 1770068535942, Thread 4005: XXXX 1770068535942, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068536047 XXXX 1770068536047, Thread 4005: XXXX 1770068536047, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068536049 XXXX 1770068536049, Thread 4005: XXXX 1770068536049, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068536148 XXXX 1770068536148, Thread 4005: XXXX 1770068536148, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068536150 XXXX 1770068536149, Thread 4005: XXXX 1770068536149, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068536263 XXXX 1770068536263, Thread 4005: XXXX 1770068536263, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068536263 XXXX 1770068536263, Thread 4005: XXXX 1770068536263, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068536366 XXXX 1770068536366, Thread 4005: XXXX 1770068536366, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068536366 XXXX 1770068536366, Thread 4005: XXXX 1770068536366, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068536481 XXXX 1770068536481, Thread 4005: XXXX 1770068536481, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068536482 XXXX 1770068536482, Thread 4005: XXXX 1770068536482, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068536588 XXXX 1770068536588, Thread 4005: XXXX 1770068536588, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068536589 XXXX 1770068536589, Thread 4005: XXXX 1770068536589, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068536700 XXXX 1770068536700, Thread 4005: XXXX 1770068536700, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068536705 XXXX 1770068536705, Thread 4005: XXXX 1770068536705, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068536815 XXXX 1770068536815, Thread 4005: XXXX 1770068536815, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068536815 XXXX 1770068536815, Thread 4005: XXXX 1770068536815, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068536916 XXXX 1770068536916, Thread 4005: XXXX 1770068536916, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068536916 XXXX 1770068536916, Thread 4005: XXXX 1770068536916, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068537018 XXXX 1770068537018, Thread 4005: XXXX 1770068537018, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068537019 XXXX 1770068537019, Thread 4005: XXXX 1770068537019, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068537164 XXXX 1770068537164, Thread 4005: XXXX 1770068537164, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068537168 XXXX 1770068537168, Thread 4005: XXXX 1770068537168, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068537265 XXXX 1770068537265, Thread 4005: XXXX 1770068537265, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068537265 XXXX 1770068537265, Thread 4005: XXXX 1770068537265, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068537366 XXXX 1770068537366, Thread 4005: XXXX 1770068537366, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068537366 XXXX 1770068537366, Thread 4005: XXXX 1770068537366, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068537467 XXXX 1770068537467, Thread 4005: XXXX 1770068537467, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068537467 XXXX 1770068537467, Thread 4005: XXXX 1770068537467, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068537576 XXXX 1770068537576, Thread 4005: XXXX 1770068537576, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068537577 XXXX 1770068537577, Thread 4005: XXXX 1770068537577, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068537681 XXXX 1770068537681, Thread 4005: XXXX 1770068537681, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068537682 XXXX 1770068537682, Thread 4005: XXXX 1770068537682, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068537783 XXXX 1770068537783, Thread 4005: XXXX 1770068537783, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068537784 XXXX 1770068537784, Thread 4005: XXXX 1770068537784, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068537892 XXXX 1770068537892, Thread 4005: XXXX 1770068537892, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068537892 XXXX 1770068537892, Thread 4005: XXXX 1770068537892, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068537998 XXXX 1770068537998, Thread 4005: XXXX 1770068537998, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068537998 XXXX 1770068537998, Thread 4005: XXXX 1770068537998, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068538099 XXXX 1770068538099, Thread 4005: XXXX 1770068538099, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068538100 XXXX 1770068538100, Thread 4005: XXXX 1770068538100, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068538200 XXXX 1770068538200, Thread 4005: XXXX 1770068538200, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068538201 XXXX 1770068538201, Thread 4005: XXXX 1770068538201, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068538315 XXXX 1770068538315, Thread 4005: XXXX 1770068538315, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068538315 XXXX 1770068538315, Thread 4005: XXXX 1770068538315, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068538434 XXXX 1770068538434, Thread 4005: XXXX 1770068538434, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068538436 XXXX 1770068538436, Thread 4005: XXXX 1770068538436, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068538548 XXXX 1770068538548, Thread 4005: XXXX 1770068538548, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068538549 XXXX 1770068538549, Thread 4005: XXXX 1770068538549, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068538650 XXXX 1770068538650, Thread 4005: XXXX 1770068538650, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068538650 XXXX 1770068538650, Thread 4005: XXXX 1770068538650, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068538766 XXXX 1770068538766, Thread 4005: XXXX 1770068538766, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068538766 XXXX 1770068538766, Thread 4005: XXXX 1770068538766, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068538866 XXXX 1770068538866, Thread 4005: XXXX 1770068538866, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068538868 XXXX 1770068538868, Thread 4005: XXXX 1770068538868, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068538972 XXXX 1770068538972, Thread 4005: XXXX 1770068538972, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068538972 XXXX 1770068538972, Thread 4005: XXXX 1770068538972, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068539082 XXXX 1770068539082, Thread 4005: XXXX 1770068539082, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068539082 XXXX 1770068539082, Thread 4005: XXXX 1770068539082, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068539199 XXXX 1770068539199, Thread 4005: XXXX 1770068539199, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068539199 XXXX 1770068539199, Thread 4005: XXXX 1770068539199, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068539301 XXXX 1770068539301, Thread 4005: XXXX 1770068539301, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068539301 XXXX 1770068539301, Thread 4005: XXXX 1770068539301, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068539402 XXXX 1770068539402, Thread 4005: XXXX 1770068539402, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068539402 XXXX 1770068539402, Thread 4005: XXXX 1770068539402, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068539517 XXXX 1770068539517, Thread 4005: XXXX 1770068539517, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068539517 XXXX 1770068539517, Thread 4005: XXXX 1770068539517, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068539631 XXXX 1770068539631, Thread 4005: XXXX 1770068539631, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068539631 XXXX 1770068539631, Thread 4005: XXXX 1770068539631, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068539734 XXXX 1770068539734, Thread 4005: XXXX 1770068539734, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068539735 XXXX 1770068539735, Thread 4005: XXXX 1770068539735, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068539848 XXXX 1770068539848, Thread 4005: XXXX 1770068539848, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068539849 XXXX 1770068539849, Thread 4005: XXXX 1770068539849, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068539949 XXXX 1770068539949, Thread 4005: XXXX 1770068539949, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068539949 XXXX 1770068539949, Thread 4005: XXXX 1770068539949, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068540064 XXXX 1770068540064, Thread 4005: XXXX 1770068540064, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068540065 XXXX 1770068540065, Thread 4005: XXXX 1770068540065, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068540176 XXXX 1770068540176, Thread 4005: XXXX 1770068540176, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068540182 XXXX 1770068540182, Thread 4005: XXXX 1770068540182, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068540286 XXXX 1770068540286, Thread 4005: XXXX 1770068540286, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068540286 XXXX 1770068540286, Thread 4005: XXXX 1770068540286, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068540398 XXXX 1770068540398, Thread 4005: XXXX 1770068540398, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068540400 XXXX 1770068540400, Thread 4005: XXXX 1770068540400, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068540533 XXXX 1770068540533, Thread 4005: XXXX 1770068540533, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068540534 XXXX 1770068540534, Thread 4005: XXXX 1770068540534, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068540615 XXXX 1770068540615, Thread 4005: XXXX 1770068540615, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068540616 XXXX 1770068540616, Thread 4005: XXXX 1770068540616, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068540731 XXXX 1770068540731, Thread 4005: XXXX 1770068540731, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068540731 XXXX 1770068540731, Thread 4005: XXXX 1770068540731, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068540833 XXXX 1770068540833, Thread 4005: XXXX 1770068540833, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068540833 XXXX 1770068540833, Thread 4005: XXXX 1770068540833, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068540947 XXXX 1770068540947, Thread 4005: XXXX 1770068540947, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068540949 XXXX 1770068540949, Thread 4005: XXXX 1770068540949, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068541049 XXXX 1770068541049, Thread 4005: XXXX 1770068541049, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068541049 XXXX 1770068541049, Thread 4005: XXXX 1770068541049, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068541149 XXXX 1770068541149, Thread 4005: XXXX 1770068541149, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068541149 XXXX 1770068541149, Thread 4005: XXXX 1770068541149, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068541269 XXXX 1770068541269, Thread 4005: XXXX 1770068541269, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068541269 XXXX 1770068541269, Thread 4005: XXXX 1770068541269, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068541383 XXXX 1770068541383, Thread 4005: XXXX 1770068541383, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068541385 XXXX 1770068541385, Thread 4005: XXXX 1770068541385, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068541495 XXXX 1770068541495, Thread 4005: XXXX 1770068541495, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068541499 XXXX 1770068541499, Thread 4005: XXXX 1770068541499, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068541599 XXXX 1770068541599, Thread 4005: XXXX 1770068541599, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068541599 XXXX 1770068541599, Thread 4005: XXXX 1770068541599, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068541714 XXXX 1770068541714, Thread 4005: XXXX 1770068541714, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068541715 XXXX 1770068541715, Thread 4005: XXXX 1770068541715, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068541818 XXXX 1770068541818, Thread 4005: XXXX 1770068541818, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068541821 XXXX 1770068541821, Thread 4005: XXXX 1770068541821, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068541928 XXXX 1770068541928, Thread 4005: XXXX 1770068541928, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068541930 XXXX 1770068541930, Thread 4005: XXXX 1770068541930, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068542032 XXXX 1770068542032, Thread 4005: XXXX 1770068542032, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068542034 XXXX 1770068542034, Thread 4005: XXXX 1770068542034, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068542132 XXXX 1770068542132, Thread 4005: XXXX 1770068542132, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068542134 XXXX 1770068542134, Thread 4005: XXXX 1770068542134, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068542249 XXXX 1770068542249, Thread 4005: XXXX 1770068542249, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068542249 XXXX 1770068542249, Thread 4005: XXXX 1770068542249, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068542349 XXXX 1770068542349, Thread 4005: XXXX 1770068542349, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068542349 XXXX 1770068542349, Thread 4005: XXXX 1770068542349, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068542451 XXXX 1770068542451, Thread 4005: XXXX 1770068542451, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068542451 XXXX 1770068542451, Thread 4005: XXXX 1770068542451, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068542564 XXXX 1770068542564, Thread 4005: XXXX 1770068542564, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068542564 XXXX 1770068542564, Thread 4005: XXXX 1770068542564, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068542665 XXXX 1770068542665, Thread 4005: XXXX 1770068542665, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068542665 XXXX 1770068542665, Thread 4005: XXXX 1770068542665, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068542767 XXXX 1770068542767, Thread 4005: XXXX 1770068542767, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068542768 XXXX 1770068542768, Thread 4005: XXXX 1770068542768, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068542883 XXXX 1770068542883, Thread 4005: XXXX 1770068542883, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068542885 XXXX 1770068542885, Thread 4005: XXXX 1770068542885, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068542999 XXXX 1770068542999, Thread 4005: XXXX 1770068542999, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068543018 XXXX 1770068543018, Thread 4005: XXXX 1770068543018, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068543114 XXXX 1770068543114, Thread 4005: XXXX 1770068543114, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068543114 XXXX 1770068543114, Thread 4005: XXXX 1770068543114, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068543217 XXXX 1770068543217, Thread 4005: XXXX 1770068543217, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068543217 XXXX 1770068543217, Thread 4005: XXXX 1770068543217, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068543318 XXXX 1770068543318, Thread 4005: XXXX 1770068543318, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068543322 XXXX 1770068543322, Thread 4005: XXXX 1770068543322, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068543427 XXXX 1770068543427, Thread 4005: XXXX 1770068543427, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068543428 XXXX 1770068543428, Thread 4005: XXXX 1770068543428, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068543536 XXXX 1770068543536, Thread 4005: XXXX 1770068543536, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068543539 XXXX 1770068543539, Thread 4005: XXXX 1770068543539, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068543645 XXXX 1770068543645, Thread 4005: XXXX 1770068543645, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068543646 XXXX 1770068543646, Thread 4005: XXXX 1770068543646, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068543749 XXXX 1770068543749, Thread 4005: XXXX 1770068543749, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068543749 XXXX 1770068543749, Thread 4005: XXXX 1770068543749, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068543850 XXXX 1770068543850, Thread 4005: XXXX 1770068543850, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068543850 XXXX 1770068543850, Thread 4005: XXXX 1770068543850, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068543966 XXXX 1770068543966, Thread 4005: XXXX 1770068543966, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068543966 XXXX 1770068543966, Thread 4005: XXXX 1770068543966, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068544077 XXXX 1770068544077, Thread 4005: XXXX 1770068544077, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068544084 XXXX 1770068544084, Thread 4005: XXXX 1770068544084, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068544181 XXXX 1770068544181, Thread 4005: XXXX 1770068544181, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068544181 XXXX 1770068544181, Thread 4005: XXXX 1770068544181, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068544282 XXXX 1770068544282, Thread 4005: XXXX 1770068544282, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068544282 XXXX 1770068544282, Thread 4005: XXXX 1770068544282, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068544383 XXXX 1770068544383, Thread 4005: XXXX 1770068544383, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068544385 XXXX 1770068544385, Thread 4005: XXXX 1770068544385, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068544494 XXXX 1770068544494, Thread 4005: XXXX 1770068544494, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068544495 XXXX 1770068544495, Thread 4005: XXXX 1770068544495, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068544597 XXXX 1770068544597, Thread 4005: XXXX 1770068544597, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068544598 XXXX 1770068544598, Thread 4005: XXXX 1770068544598, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068544699 XXXX 1770068544699, Thread 4005: XXXX 1770068544699, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068544703 XXXX 1770068544703, Thread 4005: XXXX 1770068544703, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068544809 XXXX 1770068544809, Thread 4005: XXXX 1770068544809, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068544810 XXXX 1770068544810, Thread 4005: XXXX 1770068544810, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068544914 XXXX 1770068544914, Thread 4005: XXXX 1770068544914, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068544914 XXXX 1770068544914, Thread 4005: XXXX 1770068544914, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068545014 XXXX 1770068545014, Thread 4005: XXXX 1770068545014, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068545015 XXXX 1770068545015, Thread 4005: XXXX 1770068545015, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068545116 XXXX 1770068545116, Thread 4005: XXXX 1770068545116, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068545117 XXXX 1770068545117, Thread 4005: XXXX 1770068545117, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068545226 XXXX 1770068545226, Thread 4005: XXXX 1770068545226, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068545229 XXXX 1770068545229, Thread 4005: XXXX 1770068545229, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068545333 XXXX 1770068545333, Thread 4005: XXXX 1770068545333, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068545337 XXXX 1770068545337, Thread 4005: XXXX 1770068545337, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068545449 XXXX 1770068545449, Thread 4005: XXXX 1770068545449, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068545450 XXXX 1770068545450, Thread 4005: XXXX 1770068545450, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068545565 XXXX 1770068545565, Thread 4005: XXXX 1770068545565, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068545567 XXXX 1770068545567, Thread 4005: XXXX 1770068545567, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068545666 XXXX 1770068545666, Thread 4005: XXXX 1770068545666, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068545666 XXXX 1770068545666, Thread 4005: XXXX 1770068545666, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068545767 XXXX 1770068545767, Thread 4005: XXXX 1770068545767, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068545768 XXXX 1770068545768, Thread 4005: XXXX 1770068545768, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068545884 XXXX 1770068545884, Thread 4005: XXXX 1770068545884, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068545886 XXXX 1770068545886, Thread 4005: XXXX 1770068545886, Exiting Thread 4005: Commands::runScriptBasic  
+4005 1770068545999 XXXX 1770068545997, Thread 4005: XXXX 1770068545997, Entering Thread 4005: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+4005 1770068546018 XXXX 1770068546018, Thread 4005: com.Send returned false 
+4005 1770068546020 XXXX 1770068546020, Thread 4005: transfer: exception after writeHeaderAndGetResult null 
+4005 1770068546020 XXXX 1770068546020, Thread 4005: XXXX 1770068546020, Entering Thread 4005: ToolCommUsb::recoverFromProtocolError, type = NO_SCRIPT  
+4005 1770068546020 XXXX 1770068546020, Thread 4005: Send Abort Script Engine Command 
+4005 1770068546020 XXXX 1770068546020, Thread 4005: XXXX 1770068546020, Entering Thread 4005: ToolCommUsb::killScriptEngine  
+4005 1770068546022 XXXX 1770068546022, Thread 4005: com.Send returned false 
+4005 1770068546022 XXXX 1770068546022, Thread 4005: Failed sending Abort Script Engine Command. Set nuclear option = true 
+4005 1770068546022 XXXX 1770068546022, Thread 4005: About to nuke 
+4005 1770068546022 XXXX 1770068546022, Thread 4005: XXXX 1770068546022, Entering Thread 4005: ToolCommUsb::nuclearOption  
+4005 1770068546023 XXXX 1770068546023, Thread 4005: com.Send returned false 

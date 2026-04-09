@@ -7,14 +7,14 @@
 
 
 #include "xc.h"
-volatile unsigned char buffer[64];
+volatile unsigned char buffer[100];
 volatile unsigned char front = 0;
 volatile unsigned char back = 0;
 
 void __attribute__((__interrupt__,__auto_psv__)) _U1RXInterrupt(void) {
     IFS0bits.U1RXIF = 0;
     buffer[front++] = U1RXREG;
-    front &= 63;
+    front &= 100;
 }
 void sendValue(unsigned char* value){
     while(*value != '\0'){
@@ -23,6 +23,8 @@ void sendValue(unsigned char* value){
     }
     while(U1STAbits.UTXBF);
     U1TXREG = '\r';
+    while(U1STAbits.UTXBF);
+    U1TXREG = '\n';
     int i = 0;
 }
 void sendByte(uint8_t message){
@@ -35,7 +37,8 @@ void setupUART(){
     _TRISB10 = 1;                           //U1RX
     U1MODE = 0;
     U1MODEbits.BRGH = 1;                    //Standard Mode
-    U1BRG = 34;                             //9615 baud rate
+//    U1BRG = 34;                             //11960 baud rate
+    U1BRG = 416;                             //11960 baud rate
     U1MODEbits.UARTEN = 1;                  //UART Enabled
     U1MODEbits.UEN = 0;                     //U1TX and U1RX are controlled via port hatches
     U1STAbits.UTXEN = 1;                    //Transmittion is enabled

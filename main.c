@@ -1,6 +1,5 @@
 #include "xc.h"
 #include "UART.h"
-#include "SPI.h"
 #include "circularBuff.h"
 #include <stdio.h>
 // CW1: FLASH CONFIGURATION WORD 1 (see PIC24 Family Reference Manual 24.1)
@@ -17,24 +16,47 @@
 #pragma config FCKSM = CSECME      // Clock Switching and Monitor (Clock switching is enabled, 
                                        // Fail-Safe Clock Monitor is enabled)
 #pragma config FNOSC = FRCPLL      // Oscillator Select (Fast RC Oscillator with PLL module (FRCPLL))
-
+#define HEARTBEATSMPL 4
+struct heartTimes{
+    volatile int overflowT2;
+    volatile long unsigned int timerValue;
+};
 volatile char num[20] = {'0'};
+volatile int heart_index = 0;
+volatile struct heartTimes heartbeats[HEARTBEATSMPL] = {0};
+volatile char T2flag = 0;
+volatile int value = 0;
+volatile int prevValue = 0;
+volatile int overflowT2 = 0;
+volatile char heartCheck = 0;
 void __attribute__((__interrupt__, __auto_psv__)) _ADC1Interrupt(void) {
     //It takes 2.75microseconds to convert the data with the current settings
     _AD1IF = 0;
     //Interrupt for when the ADC converison is done
-    putVal(ADC1BUF0);
+    value = ADC1BUF0;
+    T2flag = 1;
+    if(value >= 600){ //This should be changed
+        T2CONbits.TON = 1;
+        prevValue = value;
+        putVal(TMR2);
+    } else if(value < 600 && prevValue >= 600 && heartCheck != 1){
+        heartbeats[heart_index].timerValue = getAvg();
+        heartbeats[heart_index].overflowT2 = overflowT2;
+        heartCheck = (heart_index == 4)? 1 : 0;
+        T2CONbits.TON = (heartCheck)? 0 : 1;
+        heart_index = (1+heart_index)%HEARTBEATSMPL;
+        prevValue = 0;
+    }
 }
+//Timer duration is 1second basically
 void __attribute__((interrupt, auto_psv)) _T2Interrupt(){
-    _T2IF = 0; //Sends the value every 0.1 seconds
-    sprintf(num,"%6.4f",(3.3/1024)*getAvg());
-    sendValue(num);
+    _T2IF = 0;
+    overflowT2++;
 }
 void setADC(){
      AD1PCFG = 0x9fff;
      CLKDIVbits.RCDIV = 0;
-    _TRISA0 = 1;              //This is defined as the input pin
-//    setup_SPI();
+    _TRISA0 = 1;              //This is defined as the input pin for the ADC
     AD1PCFGbits.PCFG0 = 0;    //This sets the pin to Analog
     AD1CON2bits.VCFG = 0b100; //Internal pin sampling
     AD1CON3bits.ADCS = 1;     //Converison clock period 2*PR3
@@ -48,13 +70,13 @@ void setADC(){
     
     TMR3=0;
     T3CON = 0;
-//    T3CONbits.TCKPS = 0b10; //16Mhz 
-    T3CONbits.TCKPS = 0b01; //128Mhz
+//    T3CONbits.TCKPS = 0b10; //16hz 
+    T3CONbits.TCKPS = 0b01; //128hz
     PR3 = 15624; //IDK 
     TMR2 = 0;
     T2CON = 0;
-    T2CONbits.TCKPS = 0b10;
-    PR2 = 24999;
+    T2CONbits.TCKPS = 0b11; 
+    PR2 = 65535;
     _T2IF = 0;
     _T2IE = 1;
     _AD1IF = 0;
@@ -64,11 +86,15 @@ void setADC(){
 int main(void) {
     setADC();
     T3CONbits.TON = 1;
-    T2CONbits.TON = 1;
-    unsigned char* message = ".425";
     while(1){
-//        sendValue(message);
-        send_sequence(message);
+        if(T2flag){
+            sendValue(value);
+            T2flag = 0;
+        }
+        if(heartCheck){
+            //Idk if i should add an interval check for the heart beats
+            
+        }
     }
     return 0;
 }

@@ -17,46 +17,64 @@
                                        // Fail-Safe Clock Monitor is enabled)
 #pragma config FNOSC = FRCPLL      // Oscillator Select (Fast RC Oscillator with PLL module (FRCPLL))
 #define HEARTBEATSMPL 4
+#define SECPR2 65535
+#define BEEPDURATION 6249
 struct heartTimes{
-    volatile int overflowT2;
     volatile long unsigned int timerValue;
+    volatile int overflowT1;
 };
+enum TMR1FLAGS { SECFLAG = 1,STARTBEEPFLAG ,ENDBEEPFLAG};
+enum FLAGS {SENDDATA =1, PUTVALBUF, GETVALBUF, HEARTCHK };
+volatile long unsigned int intervalHeart = 0;
 volatile char num[20] = {'0'};
 volatile int heart_index = 0;
 volatile struct heartTimes heartbeats[HEARTBEATSMPL] = {0};
-volatile char T2flag = 0;
 volatile int value = 0;
 volatile int prevValue = 0;
-volatile int overflowT2 = 0;
-volatile char heartCheck = 0;
+volatile int overflowT1 = 0;
+//Index 0: Send Data, Index 1: Checks for Buzzer, Index 2: TMR1_setting
+volatile int Flags[3] = {0};  
 void __attribute__((__interrupt__, __auto_psv__)) _ADC1Interrupt(void) {
     //It takes 2.75microseconds to convert the data with the current settings
     _AD1IF = 0;
     //Interrupt for when the ADC converison is done
     value = ADC1BUF0;
-    T2flag = 1;
-    if(value >= 600){ //This should be changed
-        T2CONbits.TON = 1;
+    Flags[0] = SENDDATA;
+    if(value >= 600 && prevValue < 600){ //This should be changed
+        Flags[1] = PUTVALBUF;
         prevValue = value;
-        putVal(TMR2);
-    } else if(value < 600 && prevValue >= 600 && heartCheck != 1){
-        heartbeats[heart_index].timerValue = getAvg();
-        heartbeats[heart_index].overflowT2 = overflowT2;
-        heartCheck = (heart_index == 4)? 1 : 0;
-        T2CONbits.TON = (heartCheck)? 0 : 1;
-        heart_index = (1+heart_index)%HEARTBEATSMPL;
+    } else if(value < 600 && prevValue >= 600 && Flags[1] != HEARTCHK){
+        Flags[1] = GETVALBUF;
         prevValue = 0;
     }
+    prevValue = value;
 }
 //Timer duration is 1second basically
-void __attribute__((interrupt, auto_psv)) _T2Interrupt(){
-    _T2IF = 0;
-    overflowT2++;
+void __attribute__((interrupt, auto_psv)) _T1Interrupt(){
+    _T1IF = 0;
+    switch(Flags[2]){
+        case SECFLAG:
+            overflowT1++;
+            break;
+        case STARTBEEPFLAG:
+            //Turn on pin
+            OC1RS = 9*400;
+            PR1 = BEEPDURATION;
+            Flags[2] = ENDBEEPFLAG;
+            break;
+        case ENDBEEPFLAG:
+            //Turn off Pin
+            OC1RS = 0;
+            PR1 = SECPR2;
+            break;
+    };
 }
 void setADC(){
      AD1PCFG = 0x9fff;
      CLKDIVbits.RCDIV = 0;
     _TRISA0 = 1;              //This is defined as the input pin for the ADC
+    _TRISB7 = 0;              //OUTPUT
+    //
     AD1PCFGbits.PCFG0 = 0;    //This sets the pin to Analog
     AD1CON2bits.VCFG = 0b100; //Internal pin sampling
     AD1CON3bits.ADCS = 1;     //Converison clock period 2*PR3
@@ -67,33 +85,67 @@ void setADC(){
     AD1CON1bits.ASAM = 0b1;   //The sampling is enabled after conversion
     AD1CON2bits.SMPI = 0b0;   //Triggers Interrupts after every conversion
     AD1CON1bits.ADON = 1;     //Enabled module
-    
+    __builtin_write_OSCCONL(OSCCON & 0xbf); // unlock PPS
+    RPOR3bits.RP7R = 0x0012;                //SETs Output compare to RP7
+    __builtin_write_OSCCONL(OSCCON | 0x40); // lock PPS
     TMR3=0;
     T3CON = 0;
 //    T3CONbits.TCKPS = 0b10; //16hz 
     T3CONbits.TCKPS = 0b01; //128hz
     PR3 = 15624; //IDK 
-    TMR2 = 0;
-    T2CON = 0;
-    T2CONbits.TCKPS = 0b11; 
-    PR2 = 65535;
-    _T2IF = 0;
-    _T2IE = 1;
+    TMR1 = 0;
+    T1CON = 0;
+    T1CONbits.TCKPS = 0b11; 
+    PR1 = SECPR2;
+    Flags[2] = SECFLAG;
+    _T1IF = 0;
+    _T1IE = 1;
     _AD1IF = 0;
     _AD1IE = 1;
+    //Output Compare
+    TMR2 = 0;
+    T2CON = 0x0010;
+    PR2 = 39999;
+    OC1CON = 0;
+    OC1R = 2500;
+    OC1RS = 1000;
+    OC1CONbits.OCTSEL = 0;
+    OC1CONbits.OCM = 0b110;
     setupUART();
+    
 }
 int main(void) {
     setADC();
     T3CONbits.TON = 1;
     while(1){
-        if(T2flag){
+        if(Flags[0] == SENDDATA){
+            _AD1IE = 0;   // Disable ADC interrupt
             sendValue(value);
-            T2flag = 0;
+             Flags[0] = 0;
+            _AD1IE = 1;   // Re-enable
         }
-        if(heartCheck){
+        if(Flags[1] == PUTVALBUF){
+            T1CONbits.TON = 1;
+            putVal((TMR1) +(PR1*overflowT1));
+            Flags[1] = 0;
+        } else if (Flags[1] == GETVALBUF){
+            heartbeats[heart_index].timerValue = getAvg();
+            heartbeats[heart_index].overflowT1 = overflowT1;
+            Flags[1] = (heart_index == 4)? HEARTCHK : 0;
+            T1CONbits.TON = (Flags[1] == HEARTCHK)? 0 : 1;
+            heart_index = (1+heart_index)%HEARTBEATSMPL;
+        }
+        if(Flags[1] == HEARTCHK){
             //Idk if i should add an interval check for the heart beats
             
+            for(int i = 0; i < HEARTBEATSMPL;i++){
+                intervalHeart += heartbeats[i].timerValue +(SECPR2 *heartbeats[i].overflowT1);
+                heartbeats[i].overflowT1 = 0;
+            }
+            intervalHeart /= 4;
+            overflowT1 = 0;
+            PR2 = (intervalHeart < SECPR2) ? intervalHeart : SECPR2 ;
+            Flags[2] = STARTBEEPFLAG;
         }
     }
     return 0;

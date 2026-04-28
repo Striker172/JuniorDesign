@@ -69,24 +69,24 @@ Default Scalar Model: Small
 
 section                    address   length (PC units)   length (bytes) (dec)
 -------                    -------   -----------------   --------------------
-.text                        0x200               0x196           0x261  (609)
-.text                        0x396               0x362           0x513  (1299)
-.dinit                       0x6f8                0x42            0x63  (99)
+.text                        0x200               0x19e           0x26d  (621)
+.text                        0x39e               0x34a           0x4ef  (1263)
+.dinit                       0x6e8                0x42            0x63  (99)
 
-                 Total "program" memory used (bytes):          0x7d7  (2007) 3%
+                 Total "program" memory used (bytes):          0x7bf  (1983) 3%
 
 
 "data" Memory  [Origin = 0x800, Length = 0x2000]
 
 section                    address      alignment gaps    total length  (dec)
 -------                    -------      --------------    -------------------
-.nbss                        0x800                   0             0xe  (14)
-.ndata                       0x80e                   0             0x2  (2)
-.nbss                        0x810                   0             0x2  (2)
-.bss                         0x812                   0          0x1082  (4226)
-.data                       0x1894                   0            0x14  (20)
+.nbss                        0x800                   0            0x10  (16)
+.ndata                       0x810                   0             0x2  (2)
+.nbss                        0x812                   0             0x2  (2)
+.bss                         0x814                   0          0x1082  (4226)
+.data                       0x1896                   0            0x14  (20)
 
-                 Total "data" memory used (bytes):         0x10a8  (4264) 52%
+                 Total "data" memory used (bytes):         0x10aa  (4266) 52%
 
 
 Dynamic Memory Usage
@@ -94,9 +94,9 @@ Dynamic Memory Usage
 region                     address                      maximum length  (dec)
 ------                     -------                      ---------------------
 heap                             0                                   0  (0)
-stack                       0x18a8                               0xf58  (3928)
+stack                       0x18aa                               0xf56  (3926)
 
-                 Maximum dynamic memory (bytes):          0xf58  (3928)
+                 Maximum dynamic memory (bytes):          0xf56  (3926)
 
 Info: Project is using a large data memory model when small data memory model is sufficient.
 
@@ -108,29 +108,31 @@ External Symbols in Data Memory (by address):
                     0x0806                  _value
                     0x0808                  _prevValue
                     0x080a                  _overflowT1
-                    0x080c                  _front
-                    0x080d                  _back
-                    0x080e                  _bufferIndex
-                    0x0810                  _bufferTail
-                    0x0812                  _buff
-                    0x1812                  _buffer
-                    0x1876                  _heartbeats
-                    0x188e                  _Flags
-                    0x1894                  _num
+                    0x080c                  _beepInterval
+                    0x080e                  _front
+                    0x080f                  _back
+                    0x0810                  _bufferIndex
+                    0x0812                  _bufferTail
+                    0x0814                  _buff
+                    0x1814                  _buffer
+                    0x1878                  _heartbeats
+                    0x1890                  _Flags
+                    0x1896                  _num
 
 External Symbols in Data Memory (by name):
 
-                    0x188e                  _Flags
-                    0x080d                  _back
-                    0x0812                  _buff
-                    0x1812                  _buffer
-                    0x080e                  _bufferIndex
-                    0x0810                  _bufferTail
-                    0x080c                  _front
+                    0x1890                  _Flags
+                    0x080f                  _back
+                    0x080c                  _beepInterval
+                    0x0814                  _buff
+                    0x1814                  _buffer
+                    0x0810                  _bufferIndex
+                    0x0812                  _bufferTail
+                    0x080e                  _front
                     0x0804                  _heart_index
-                    0x1876                  _heartbeats
+                    0x1878                  _heartbeats
                     0x0800                  _intervalHeart
-                    0x1894                  _num
+                    0x1896                  _num
                     0x080a                  _overflowT1
                     0x0808                  _prevValue
                     0x0806                  _value
@@ -143,33 +145,35 @@ External Symbols in Program Memory (by address):
                   0x000252                  __data_init_standard
                   0x0002cc                  __ADC1Interrupt
                   0x000322                  __T1Interrupt
-                  0x000362                  __U1RXInterrupt
-                  0x000390                  __DefaultInterrupt
-                  0x000396                  _setADC
-                  0x000466                  _main
-                  0x000590                  _sendValue
-                  0x0005d6                  _sendByte
-                  0x0005f0                  _setupUART
-                  0x00066c                  _putVal
-                  0x0006ae                  _getAvg
+                  0x000342                  __T2Interrupt
+                  0x00036a                  __U1RXInterrupt
+                  0x000398                  __DefaultInterrupt
+                  0x00039e                  _setADC
+                  0x00046e                  _main
+                  0x000580                  _sendValue
+                  0x0005c6                  _sendByte
+                  0x0005e0                  _setupUART
+                  0x00065c                  _putVal
+                  0x00069e                  _getAvg
 
 External Symbols in Program Memory (by name):
 
                   0x0002cc                  __ADC1Interrupt
-                  0x000390                  __DefaultInterrupt
+                  0x000398                  __DefaultInterrupt
                   0x000322                  __T1Interrupt
-                  0x000362                  __U1RXInterrupt
+                  0x000342                  __T2Interrupt
+                  0x00036a                  __U1RXInterrupt
                   0x000252                  __data_init
                   0x000252                  __data_init_standard
                   0x00023c                  __psv_init
                   0x000200                  __resetPRI
-                  0x0006ae                  _getAvg
-                  0x000466                  _main
-                  0x00066c                  _putVal
-                  0x0005d6                  _sendByte
-                  0x000590                  _sendValue
-                  0x000396                  _setADC
-                  0x0005f0                  _setupUART
+                  0x00069e                  _getAvg
+                  0x00046e                  _main
+                  0x00065c                  _putVal
+                  0x0005c6                  _sendByte
+                  0x000580                  _sendValue
+                  0x00039e                  _setADC
+                  0x0005e0                  _setupUART
 
 Memory Configuration
 
@@ -211,7 +215,7 @@ LOAD c:/program files/microchip/xc16/v2.10/bin/bin/../../lib\libfx-elf.a
                   0x000002          0x2 SHORT 0x0 ((ABSOLUTE (__reset) >> 0x10) & 0x7f)
                   0x000003          0x2 SHORT 0x0
 
-.text             0x000200        0x196
+.text             0x000200        0x19e
  *(.init)
  .init            0x000200         0x4c c:/program files/microchip/xc16/v2.10/bin/bin/../../lib\libc99-pic30-elf.a(crt0_standard.o)
                   0x000200                  __resetPRI
@@ -223,21 +227,22 @@ LOAD c:/program files/microchip/xc16/v2.10/bin/bin/../../lib\libfx-elf.a
  *(.user_init)
  *(.handle)
  *(.isr*)
- .isr.text        0x0002cc         0x96 build/default/debug/main.o
+ .isr.text        0x0002cc         0x9e build/default/debug/main.o
                   0x0002cc                  __ADC1Interrupt
                   0x000322                  __T1Interrupt
- .isr.text        0x000362         0x2e build/default/debug/UART.o
-                  0x000362                  __U1RXInterrupt
- .isr             0x000390          0x4 default_isr
-                  0x000390                  __DefaultInterrupt
+                  0x000342                  __T2Interrupt
+ .isr.text        0x00036a         0x2e build/default/debug/UART.o
+                  0x00036a                  __U1RXInterrupt
+ .isr             0x000398          0x4 default_isr
+                  0x000398                  __DefaultInterrupt
  *(.libc)
  *(.libm)
  *(.libdsp)
  *(.lib*)
  .libpic30_crt_start_mode
-                  0x000394          0x2 c:/program files/microchip/xc16/v2.10/bin/bin/../../lib\libc99-pic30-elf.a(crt_start_mode_normal.Meo)
-                  0x000394                  __crt_start_mode
-                  0x000394                  __crt_start_mode_normal
+                  0x00039c          0x2 c:/program files/microchip/xc16/v2.10/bin/bin/../../lib\libc99-pic30-elf.a(crt_start_mode_normal.Meo)
+                  0x00039c                  __crt_start_mode
+                  0x00039c                  __crt_start_mode_normal
 
 usercode
  *(usercode)
@@ -251,11 +256,11 @@ __CONFIG1
 .comment
  *(.comment)
 
-.debug_info       0x000000       0x25d1
+.debug_info       0x000000       0x25ed
  *(.debug_info)
- .debug_info      0x000000       0x1607 build/default/debug/main.o
- .debug_info      0x001607        0xdb3 build/default/debug/UART.o
- .debug_info      0x0023ba        0x217 build/default/debug/circularBuff.o
+ .debug_info      0x000000       0x1623 build/default/debug/main.o
+ .debug_info      0x001623        0xdb3 build/default/debug/UART.o
+ .debug_info      0x0023d6        0x217 build/default/debug/circularBuff.o
  *(.gnu.linkonce.wi.*)
 
 .debug_abbrev     0x000000        0x43f
@@ -264,23 +269,23 @@ __CONFIG1
  .debug_abbrev    0x0001b9        0x1b5 build/default/debug/UART.o
  .debug_abbrev    0x00036e         0xd1 build/default/debug/circularBuff.o
 
-.debug_line       0x000000        0x30e
+.debug_line       0x000000        0x30c
  *(.debug_line)
- .debug_line      0x000000        0x17a build/default/debug/main.o
- .debug_line      0x00017a        0x139 build/default/debug/UART.o
- .debug_line      0x0002b3         0x5b build/default/debug/circularBuff.o
+ .debug_line      0x000000        0x178 build/default/debug/main.o
+ .debug_line      0x000178        0x139 build/default/debug/UART.o
+ .debug_line      0x0002b1         0x5b build/default/debug/circularBuff.o
 
-.debug_frame      0x000000        0x182
+.debug_frame      0x000000        0x1ac
  *(.debug_frame)
- .debug_frame     0x000000         0xa4 build/default/debug/main.o
- .debug_frame     0x0000a4         0x96 build/default/debug/UART.o
- .debug_frame     0x00013a         0x48 build/default/debug/circularBuff.o
+ .debug_frame     0x000000         0xce build/default/debug/main.o
+ .debug_frame     0x0000ce         0x96 build/default/debug/UART.o
+ .debug_frame     0x000164         0x48 build/default/debug/circularBuff.o
 
-.debug_str        0x000000        0x134
+.debug_str        0x000000        0x141
  *(.debug_str)
- .debug_str       0x000000         0xcd build/default/debug/main.o
- .debug_str       0x0000cd         0x50 build/default/debug/UART.o
- .debug_str       0x00011d         0x17 build/default/debug/circularBuff.o
+ .debug_str       0x000000         0xda build/default/debug/main.o
+ .debug_str       0x0000da         0x50 build/default/debug/UART.o
+ .debug_str       0x00012a         0x17 build/default/debug/circularBuff.o
 
 .debug_loc
  *(.debug_loc)
@@ -289,14 +294,14 @@ __CONFIG1
  *(.debug_macinfo)
 
 .debug_pubnames
-                  0x000000        0x170
+                  0x000000        0x192
  *(.debug_pubnames)
  .debug_pubnames
-                  0x000000         0xb4 build/default/debug/main.o
+                  0x000000         0xd6 build/default/debug/main.o
  .debug_pubnames
-                  0x0000b4         0x6c build/default/debug/UART.o
+                  0x0000d6         0x6c build/default/debug/UART.o
  .debug_pubnames
-                  0x000120         0x50 build/default/debug/circularBuff.o
+                  0x000142         0x50 build/default/debug/circularBuff.o
 
 .debug_ranges
  *(.debug_ranges)
@@ -920,37 +925,38 @@ __c30_signature
  __c30_signature
                   0x000361          0x6 c:/program files/microchip/xc16/v2.10/bin/bin/../../lib\libc99-pic30-elf.a(data_init_standard.o)
 
-.nbss               0x0800          0xe
- .nbss              0x0800          0xc build/default/debug/main.o
+.nbss               0x0800         0x10
+ .nbss              0x0800          0xe build/default/debug/main.o
                     0x0800                  _intervalHeart
                     0x0804                  _heart_index
                     0x0806                  _value
                     0x0808                  _prevValue
                     0x080a                  _overflowT1
- .nbss              0x080c          0x2 build/default/debug/UART.o
-                    0x080c                  _front
-                    0x080d                  _back
+                    0x080c                  _beepInterval
+ .nbss              0x080e          0x2 build/default/debug/UART.o
+                    0x080e                  _front
+                    0x080f                  _back
 
-.ndata              0x080e          0x2
- .ndata             0x080e          0x2 build/default/debug/circularBuff.o
-                    0x080e                  _bufferIndex
+.ndata              0x0810          0x2
+ .ndata             0x0810          0x2 build/default/debug/circularBuff.o
+                    0x0810                  _bufferIndex
 
-.nbss               0x0810          0x2
- .nbss              0x0810          0x2 build/default/debug/circularBuff.o
-                    0x0810                  _bufferTail
+.nbss               0x0812          0x2
+ .nbss              0x0812          0x2 build/default/debug/circularBuff.o
+                    0x0812                  _bufferTail
 
-.bss                0x0812       0x1082
- .bss               0x0812       0x1000 build/default/debug/circularBuff.o
-                    0x0812                  _buff
- .bss               0x1812         0x64 build/default/debug/UART.o
-                    0x1812                  _buffer
- .bss               0x1876         0x1e build/default/debug/main.o
-                    0x1876                  _heartbeats
-                    0x188e                  _Flags
+.bss                0x0814       0x1082
+ .bss               0x0814       0x1000 build/default/debug/circularBuff.o
+                    0x0814                  _buff
+ .bss               0x1814         0x64 build/default/debug/UART.o
+                    0x1814                  _buffer
+ .bss               0x1878         0x1e build/default/debug/main.o
+                    0x1878                  _heartbeats
+                    0x1890                  _Flags
 
-.data               0x1894         0x14
- .data              0x1894         0x14 build/default/debug/main.o
-                    0x1894                  _num
+.data               0x1896         0x14
+ .data              0x1896         0x14 build/default/debug/main.o
+                    0x1896                  _num
 
 .config_JTAGEN    0x00abfe          0x2
  .config_JTAGEN
@@ -969,22 +975,27 @@ __c30_signature
  .ivt._T1Interrupt
                   0x00001a          0x2 build/default/debug/main.o
 
+.ivt._T2Interrupt
+                  0x000022          0x2
+ .ivt._T2Interrupt
+                  0x000022          0x2 build/default/debug/main.o
+
 .ivt._U1RXInterrupt
                   0x00002a          0x2
  .ivt._U1RXInterrupt
                   0x00002a          0x2 build/default/debug/UART.o
 
-.text             0x000396        0x362
- .text            0x000396        0x1fa build/default/debug/main.o
-                  0x000396                  _setADC
-                  0x000466                  _main
- .text            0x000590         0xdc build/default/debug/UART.o
-                  0x000590                  _sendValue
-                  0x0005d6                  _sendByte
-                  0x0005f0                  _setupUART
- .text            0x00066c         0x8c build/default/debug/circularBuff.o
-                  0x00066c                  _putVal
-                  0x0006ae                  _getAvg
+.text             0x00039e        0x34a
+ .text            0x00039e        0x1e2 build/default/debug/main.o
+                  0x00039e                  _setADC
+                  0x00046e                  _main
+ .text            0x000580         0xdc build/default/debug/UART.o
+                  0x000580                  _sendValue
+                  0x0005c6                  _sendByte
+                  0x0005e0                  _setupUART
+ .text            0x00065c         0x8c build/default/debug/circularBuff.o
+                  0x00065c                  _putVal
+                  0x00069e                  _getAvg
 
-.dinit            0x0006f8         0x42
- .dinit           0x0006f8         0x42 data_init
+.dinit            0x0006e8         0x42
+ .dinit           0x0006e8         0x42 data_init
